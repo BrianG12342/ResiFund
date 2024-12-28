@@ -1,0 +1,6258 @@
+[
+    {
+        "Year": "2021",
+        "Hospital_Name": "BAPTIST MEDICAL CENTER SOUTH",
+        "State": "AL",
+        "Total_CMS_Payments": "$6,463,700.00",
+        "Total_Residents": "40.42",
+        "Payment_Per_Resident": "$159,913.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CALLAHAN EYE FOUNDATION HOSP",
+        "State": "AL",
+        "Total_CMS_Payments": "$382,510.00",
+        "Total_Residents": "6.19",
+        "Payment_Per_Resident": "$61,794.83"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DCH REGIONAL MEDICAL CENTER",
+        "State": "AL",
+        "Total_CMS_Payments": "$6,620,420.00",
+        "Total_Residents": "49.41",
+        "Payment_Per_Resident": "$133,989.48"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GRANDVIEW MEDICAL CENTER",
+        "State": "AL",
+        "Total_CMS_Payments": "$8,664,436.00",
+        "Total_Residents": "43.33",
+        "Payment_Per_Resident": "$199,963.90"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PRINCETON BAPTIST MEDICAL CENTER",
+        "State": "AL",
+        "Total_CMS_Payments": "$11,421,632.00",
+        "Total_Residents": "54.08",
+        "Payment_Per_Resident": "$211,198.82"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST VINCENTS BIRMINGHAM",
+        "State": "AL",
+        "Total_CMS_Payments": "$232,071.00",
+        "Total_Residents": "1.13",
+        "Payment_Per_Resident": "$205,372.57"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. VINCENTS EAST",
+        "State": "AL",
+        "Total_CMS_Payments": "$4,332,185.00",
+        "Total_Residents": "24.99",
+        "Payment_Per_Resident": "$173,356.74"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF ALABAMA HOSPITAL",
+        "State": "AL",
+        "Total_CMS_Payments": "$46,736,664.00",
+        "Total_Residents": "548.58",
+        "Payment_Per_Resident": "$85,195.71"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "USA HEALTH UNIVERSITY HOSPITAL",
+        "State": "AL",
+        "Total_CMS_Payments": "$19,918,680.00",
+        "Total_Residents": "173.36",
+        "Payment_Per_Resident": "$114,897.78"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BAPTIST HEALTH MEDICAL CENTER - LR",
+        "State": "AR",
+        "Total_CMS_Payments": "$1,024,093.00",
+        "Total_Residents": "9.75",
+        "Payment_Per_Resident": "$105,035.18"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UAMS MEDICAL CENTER",
+        "State": "AR",
+        "Total_CMS_Payments": "$34,098,588.00",
+        "Total_Residents": "318.48",
+        "Payment_Per_Resident": "$107,066.65"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WHITE COUNTY MEDICAL CENTER",
+        "State": "AR",
+        "Total_CMS_Payments": "$12,776,240.00",
+        "Total_Residents": "63.09",
+        "Payment_Per_Resident": "$202,508.16"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BANNER BOSWELL MEDICAL CENTER",
+        "State": "AZ",
+        "Total_CMS_Payments": "$695,089.00",
+        "Total_Residents": "2.66",
+        "Payment_Per_Resident": "$261,311.65"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BANNER DEL E WEBB MEDICAL CENTER",
+        "State": "AZ",
+        "Total_CMS_Payments": "$53,037.00",
+        "Total_Residents": "0.67",
+        "Payment_Per_Resident": "$79,159.70"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BANNER UNIVERSITY MED CENTER SOUTH",
+        "State": "AZ",
+        "Total_CMS_Payments": "$10,883,506.00",
+        "Total_Residents": "111.92",
+        "Payment_Per_Resident": "$97,243.62"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BANNER UNIVERSITY MED CENTER TUCSON",
+        "State": "AZ",
+        "Total_CMS_Payments": "$45,140,176.00",
+        "Total_Residents": "418.51",
+        "Payment_Per_Resident": "$107,859.25"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BANNER UNIVERSITY MEDICAL CENTER PHX",
+        "State": "AZ",
+        "Total_CMS_Payments": "$26,919,620.00",
+        "Total_Residents": "208.4",
+        "Payment_Per_Resident": "$129,172.84"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HONORHEALTH JOHN C. LINCOLN MED CTR",
+        "State": "AZ",
+        "Total_CMS_Payments": "$1,790,046.00",
+        "Total_Residents": "8.32",
+        "Payment_Per_Resident": "$215,149.76"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HONORHEALTH SCOTTSDALE OSBORN MED CT",
+        "State": "AZ",
+        "Total_CMS_Payments": "$5,151,193.00",
+        "Total_Residents": "21.78",
+        "Payment_Per_Resident": "$236,510.24"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HONORHEALTH SCOTTSDALE SHEA MED CTR",
+        "State": "AZ",
+        "Total_CMS_Payments": "$1,657,257.00",
+        "Total_Residents": "7.7",
+        "Payment_Per_Resident": "$215,228.18"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KINGMAN REGIONAL MEDICAL CENTER",
+        "State": "AZ",
+        "Total_CMS_Payments": "$3,373,509.00",
+        "Total_Residents": "27.05",
+        "Payment_Per_Resident": "$124,713.83"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MAYO CLINIC HOSPITAL",
+        "State": "AZ",
+        "Total_CMS_Payments": "$28,308,758.00",
+        "Total_Residents": "132.17",
+        "Payment_Per_Resident": "$214,184.44"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MOUNTAIN VISTA MEDICAL CENTER",
+        "State": "AZ",
+        "Total_CMS_Payments": "$9,458,372.00",
+        "Total_Residents": "44.12",
+        "Payment_Per_Resident": "$214,378.33"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. JOSEPHS HOSPITAL &amp; MEDICAL CTR",
+        "State": "AZ",
+        "Total_CMS_Payments": "$37,417,624.00",
+        "Total_Residents": "182.32",
+        "Payment_Per_Resident": "$205,230.50"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TUCSON MEDICAL CENTER",
+        "State": "AZ",
+        "Total_CMS_Payments": "$9,418,097.00",
+        "Total_Residents": "33.03",
+        "Payment_Per_Resident": "$285,137.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "VALLEYWISE HEALTH MEDICAL CENTER",
+        "State": "AZ",
+        "Total_CMS_Payments": "$13,103,074.00",
+        "Total_Residents": "200.34",
+        "Payment_Per_Resident": "$65,404.18"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ADVENTIST HEALTH WHITE MEMORIAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$8,798,455.00",
+        "Total_Residents": "61.42",
+        "Payment_Per_Resident": "$143,250.65"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ALAMEDA HEALTH SYSTEM",
+        "State": "CA",
+        "Total_CMS_Payments": "$16,553,266.00",
+        "Total_Residents": "101.68",
+        "Payment_Per_Resident": "$162,797.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ARROWHEAD REGIONAL MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$11,359,086.00",
+        "Total_Residents": "190.44",
+        "Payment_Per_Resident": "$59,646.53"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CALIFORNIA HOSPITAL MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$1,599,672.00",
+        "Total_Residents": "30.88",
+        "Payment_Per_Resident": "$51,802.85"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CALIFORNIA PACIFIC MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$21,818,872.00",
+        "Total_Residents": "85.83",
+        "Payment_Per_Resident": "$254,210.32"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CEDARS-SINAI MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$96,642,888.00",
+        "Total_Residents": "345.39",
+        "Payment_Per_Resident": "$279,808.01"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CITY OF HOPE NATIONAL MEDICAL CTR",
+        "State": "CA",
+        "Total_CMS_Payments": "$53,092.00",
+        "Total_Residents": "18.96",
+        "Payment_Per_Resident": "$2,800.21"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CMH OF SAN BUENAVENTURA",
+        "State": "CA",
+        "Total_CMS_Payments": "$14,716,614.00",
+        "Total_Residents": "80.05",
+        "Payment_Per_Resident": "$183,842.77"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "COMMUNITY REGIONAL MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$19,906,708.00",
+        "Total_Residents": "188.07",
+        "Payment_Per_Resident": "$105,847.33"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CPMC - MISSION BERNAL CAMPUS",
+        "State": "CA",
+        "Total_CMS_Payments": "$415,535.00",
+        "Total_Residents": "1.57",
+        "Payment_Per_Resident": "$264,671.97"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CPMC-R.K. DAVIES MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$135,090.00",
+        "Total_Residents": "0.73",
+        "Payment_Per_Resident": "$185,054.79"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DESERT HOSPITAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$16,606,418.00",
+        "Total_Residents": "64.39",
+        "Payment_Per_Resident": "$257,903.68"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DOCTORS MEDICAL CENTER OF MODESTO",
+        "State": "CA",
+        "Total_CMS_Payments": "$6,135,938.00",
+        "Total_Residents": "21.73",
+        "Payment_Per_Resident": "$282,371.74"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "EISENHOWER MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$35,283,932.00",
+        "Total_Residents": "112.8",
+        "Payment_Per_Resident": "$312,800.82"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HARBOR-UCLA MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$25,760,712.00",
+        "Total_Residents": "450.99",
+        "Payment_Per_Resident": "$57,120.36"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HEMET VALLEY MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$10,609,597.00",
+        "Total_Residents": "72.99",
+        "Payment_Per_Resident": "$145,356.86"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HUNTINGTON HOSPITAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$8,188,364.00",
+        "Total_Residents": "41.07",
+        "Payment_Per_Resident": "$199,375.80"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KAWEAH DELTA MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$20,631,060.00",
+        "Total_Residents": "77.21",
+        "Payment_Per_Resident": "$267,207.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KECK HOSPITAL OF USC",
+        "State": "CA",
+        "Total_CMS_Payments": "$25,873,400.00",
+        "Total_Residents": "97.35",
+        "Payment_Per_Resident": "$265,777.09"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KECK HOSPITAL OF USC",
+        "State": "CA",
+        "Total_CMS_Payments": "$8,101,034.00",
+        "Total_Residents": "33.67",
+        "Payment_Per_Resident": "$240,600.95"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KERN MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$5,363,772.00",
+        "Total_Residents": "95.64",
+        "Payment_Per_Resident": "$56,082.94"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - DOWNEY",
+        "State": "CA",
+        "Total_CMS_Payments": "$939,778.00",
+        "Total_Residents": "5.17",
+        "Payment_Per_Resident": "$181,775.24"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - FONTANA",
+        "State": "CA",
+        "Total_CMS_Payments": "$6,054,398.00",
+        "Total_Residents": "73.19",
+        "Payment_Per_Resident": "$82,721.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - FREMONT",
+        "State": "CA",
+        "Total_CMS_Payments": "$472,171.00",
+        "Total_Residents": "3.13",
+        "Payment_Per_Resident": "$150,853.35"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - FRESNO",
+        "State": "CA",
+        "Total_CMS_Payments": "$91,939.00",
+        "Total_Residents": "1.78",
+        "Payment_Per_Resident": "$51,651.12"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - LOS ANGELES",
+        "State": "CA",
+        "Total_CMS_Payments": "$36,386,412.00",
+        "Total_Residents": "196.81",
+        "Payment_Per_Resident": "$184,880.91"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - MANTECA",
+        "State": "CA",
+        "Total_CMS_Payments": "$274,862.00",
+        "Total_Residents": "3.53",
+        "Payment_Per_Resident": "$77,864.59"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - OAKLAND",
+        "State": "CA",
+        "Total_CMS_Payments": "$21,847,036.00",
+        "Total_Residents": "135.46",
+        "Payment_Per_Resident": "$161,280.35"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - OC-ANAHEIM",
+        "State": "CA",
+        "Total_CMS_Payments": "$4,379,316.00",
+        "Total_Residents": "27.75",
+        "Payment_Per_Resident": "$157,813.19"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - PANORAMA CITY",
+        "State": "CA",
+        "Total_CMS_Payments": "$350,506.00",
+        "Total_Residents": "2.78",
+        "Payment_Per_Resident": "$126,081.29"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - REDWOOD CITY",
+        "State": "CA",
+        "Total_CMS_Payments": "$68,436.00",
+        "Total_Residents": "5.15",
+        "Payment_Per_Resident": "$13,288.54"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - RIVERSIDE",
+        "State": "CA",
+        "Total_CMS_Payments": "$3,439,057.00",
+        "Total_Residents": "32.76",
+        "Payment_Per_Resident": "$104,977.32"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - ROSEVILLE",
+        "State": "CA",
+        "Total_CMS_Payments": "$1,488,987.00",
+        "Total_Residents": "8.43",
+        "Payment_Per_Resident": "$176,629.54"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - SACRAMENTO",
+        "State": "CA",
+        "Total_CMS_Payments": "$3,795,274.00",
+        "Total_Residents": "24.35",
+        "Payment_Per_Resident": "$155,863.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - SAN DIEGO",
+        "State": "CA",
+        "Total_CMS_Payments": "$2,701,792.00",
+        "Total_Residents": "53.86",
+        "Payment_Per_Resident": "$50,163.24"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - SAN FRANCISCO",
+        "State": "CA",
+        "Total_CMS_Payments": "$22,646,346.00",
+        "Total_Residents": "86.23",
+        "Payment_Per_Resident": "$262,627.23"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - SAN LEANDRO",
+        "State": "CA",
+        "Total_CMS_Payments": "$545,003.00",
+        "Total_Residents": "2.34",
+        "Payment_Per_Resident": "$232,907.26"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - SANTA CLARA",
+        "State": "CA",
+        "Total_CMS_Payments": "$19,275,892.00",
+        "Total_Residents": "93.87",
+        "Payment_Per_Resident": "$205,346.67"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - SOUTH BAY",
+        "State": "CA",
+        "Total_CMS_Payments": "$696,949.00",
+        "Total_Residents": "3.5",
+        "Payment_Per_Resident": "$199,128.29"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - SOUTH SACRAMENTO",
+        "State": "CA",
+        "Total_CMS_Payments": "$3,592,494.00",
+        "Total_Residents": "22.3",
+        "Payment_Per_Resident": "$161,098.39"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - VACAVILLE",
+        "State": "CA",
+        "Total_CMS_Payments": "$405,281.00",
+        "Total_Residents": "0.25",
+        "Payment_Per_Resident": "$1,621,124.00"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - VALLEJO",
+        "State": "CA",
+        "Total_CMS_Payments": "$3,689,562.00",
+        "Total_Residents": "15.7",
+        "Payment_Per_Resident": "$235,003.95"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - WALNUT CREEK",
+        "State": "CA",
+        "Total_CMS_Payments": "$989,342.00",
+        "Total_Residents": "3.53",
+        "Payment_Per_Resident": "$280,266.86"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - WEST LOS ANGELES",
+        "State": "CA",
+        "Total_CMS_Payments": "$231,957.00",
+        "Total_Residents": "9.47",
+        "Payment_Per_Resident": "$24,493.88"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH - WOODLAND HILLS",
+        "State": "CA",
+        "Total_CMS_Payments": "$2,898,046.00",
+        "Total_Residents": "17.59",
+        "Payment_Per_Resident": "$164,755.32"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH- SAN JOSE",
+        "State": "CA",
+        "Total_CMS_Payments": "$1,717,903.00",
+        "Total_Residents": "25.48",
+        "Payment_Per_Resident": "$67,421.62"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LAC OLIVE VIEW/UCLA MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$8,643,889.00",
+        "Total_Residents": "169.57",
+        "Payment_Per_Resident": "$50,975.34"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LAC+USC MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$29,063,284.00",
+        "Total_Residents": "569.57",
+        "Payment_Per_Resident": "$51,026.71"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LANGLEY PORTER PSYCHIATRIC HOSPITAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$1,433,036.00",
+        "Total_Residents": "40.84",
+        "Payment_Per_Resident": "$35,089.03"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LLU BEHAVIORAL MEDICINE CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$20,884.00",
+        "Total_Residents": "13.59",
+        "Payment_Per_Resident": "$1,536.72"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LOMA LINDA UNIVERSITY MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$60,686,060.00",
+        "Total_Residents": "385.06",
+        "Payment_Per_Resident": "$157,601.57"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIALCARE LONG BEACH MED CTR",
+        "State": "CA",
+        "Total_CMS_Payments": "$13,170,926.00",
+        "Total_Residents": "58.98",
+        "Payment_Per_Resident": "$223,311.73"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIALCARE MCWHLB",
+        "State": "CA",
+        "Total_CMS_Payments": "$10,887.00",
+        "Total_Residents": "50.34",
+        "Payment_Per_Resident": "$216.27"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PALOMAR MEDICAL CENTER ESCONDIDO",
+        "State": "CA",
+        "Total_CMS_Payments": "$159,035.00",
+        "Total_Residents": "3.71",
+        "Payment_Per_Resident": "$42,866.58"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PIH HEALTH GOOD SAMARITAN HOSPITAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$1,793,787.00",
+        "Total_Residents": "9.3",
+        "Payment_Per_Resident": "$192,880.32"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RANCHO LOS AMIGOS NATL.REHAB.CTR.",
+        "State": "CA",
+        "Total_CMS_Payments": "$603,498.00",
+        "Total_Residents": "17.32",
+        "Payment_Per_Resident": "$34,844.00"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RESNICK NEUROPSYCHIATRIC HOSPITAL AT",
+        "State": "CA",
+        "Total_CMS_Payments": "$1,416,119.00",
+        "Total_Residents": "55.37",
+        "Payment_Per_Resident": "$25,575.56"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RIVERSIDE UNIVERSITY HEALTH SYSTEM",
+        "State": "CA",
+        "Total_CMS_Payments": "$6,746,882.00",
+        "Total_Residents": "145.55",
+        "Payment_Per_Resident": "$46,354.39"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RONALD REAGAN UCLA",
+        "State": "CA",
+        "Total_CMS_Payments": "$123,032,136.00",
+        "Total_Residents": "583.14",
+        "Payment_Per_Resident": "$210,982.16"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAN JOAQUIN GENERAL HOSPITAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$3,826,768.00",
+        "Total_Residents": "58.68",
+        "Payment_Per_Resident": "$65,214.18"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAN MATEO MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$145,623.00",
+        "Total_Residents": "5.23",
+        "Payment_Per_Resident": "$27,843.79"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SANTA BARBARA COTTAGE HOSPITAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$9,383,476.00",
+        "Total_Residents": "64.87",
+        "Payment_Per_Resident": "$144,650.47"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SANTA CLARA VALLEY MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$22,440,324.00",
+        "Total_Residents": "200.85",
+        "Payment_Per_Resident": "$111,726.78"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SANTA MONICA UCLA MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$24,737,602.00",
+        "Total_Residents": "105.65",
+        "Payment_Per_Resident": "$234,146.73"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SCRIPPS GREEN HOSPITAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$11,935,909.00",
+        "Total_Residents": "58.8",
+        "Payment_Per_Resident": "$202,991.65"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SCRIPPS MERCY HOSPITAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$19,831,296.00",
+        "Total_Residents": "93.05",
+        "Payment_Per_Resident": "$213,125.16"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. MARY MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$3,530,803.00",
+        "Total_Residents": "34.15",
+        "Payment_Per_Resident": "$103,391.01"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. MARYS MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$9,474,397.00",
+        "Total_Residents": "36.27",
+        "Payment_Per_Resident": "$261,218.56"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "STANFORD HEALTH CARE",
+        "State": "CA",
+        "Total_CMS_Payments": "$139,390,240.00",
+        "Total_Residents": "778.75",
+        "Payment_Per_Resident": "$178,992.28"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SUTTER DAVIS HOSPITAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$357,297.00",
+        "Total_Residents": "4.41",
+        "Payment_Per_Resident": "$81,019.73"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SUTTER MEDICAL CENTER - SACRAMENTO",
+        "State": "CA",
+        "Total_CMS_Payments": "$3,044,029.00",
+        "Total_Residents": "21.48",
+        "Payment_Per_Resident": "$141,714.57"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UC DAVIS MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$77,947,096.00",
+        "Total_Residents": "518.6",
+        "Payment_Per_Resident": "$150,302.92"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UCI MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$53,798,628.00",
+        "Total_Residents": "314.37",
+        "Payment_Per_Resident": "$171,131.56"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UCSD MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$66,106,604.00",
+        "Total_Residents": "439.98",
+        "Payment_Per_Resident": "$150,249.11"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UCSF MEDICAL CENTER",
+        "State": "CA",
+        "Total_CMS_Payments": "$123,081,152.00",
+        "Total_Residents": "567.95",
+        "Payment_Per_Resident": "$216,711.25"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "USC NORRIS CANCER HOSPITAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$92,233.00",
+        "Total_Residents": "2.81",
+        "Payment_Per_Resident": "$32,823.13"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "USC NORRIS CANCER HOSPITAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$202,953.00",
+        "Total_Residents": "8.99",
+        "Payment_Per_Resident": "$22,575.42"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ZUCKERBERG SAN FRANCISCO GENERAL",
+        "State": "CA",
+        "Total_CMS_Payments": "$27,300,812.00",
+        "Total_Residents": "267.28",
+        "Payment_Per_Resident": "$102,143.12"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CENTURA PENROSE HOSPITAL",
+        "State": "CO",
+        "Total_CMS_Payments": "$944,395.00",
+        "Total_Residents": "12.31",
+        "Payment_Per_Resident": "$76,717.71"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CENTURA ST ANTHONY HOSPITAL",
+        "State": "CO",
+        "Total_CMS_Payments": "$2,476,684.00",
+        "Total_Residents": "11.25",
+        "Payment_Per_Resident": "$220,149.69"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CENTURA ST. ANTHONY NORTH HOSPITAL",
+        "State": "CO",
+        "Total_CMS_Payments": "$4,531,702.00",
+        "Total_Residents": "28.13",
+        "Payment_Per_Resident": "$161,098.54"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DENVER HEALTH MEDICAL CENTER",
+        "State": "CO",
+        "Total_CMS_Payments": "$9,691,883.00",
+        "Total_Residents": "204.63",
+        "Payment_Per_Resident": "$47,362.96"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL HEALTH SYSTEM",
+        "State": "CO",
+        "Total_CMS_Payments": "$495,542.00",
+        "Total_Residents": "7.09",
+        "Payment_Per_Resident": "$69,893.09"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PARKVIEW MEDICAL CENTER",
+        "State": "CO",
+        "Total_CMS_Payments": "$11,748,794.00",
+        "Total_Residents": "40.85",
+        "Payment_Per_Resident": "$287,608.18"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PRESBYTERIAN ST LUKES MEDICAL CTR",
+        "State": "CO",
+        "Total_CMS_Payments": "$1,981,509.00",
+        "Total_Residents": "10.76",
+        "Payment_Per_Resident": "$184,155.11"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ROSE MEDICAL CENTER",
+        "State": "CO",
+        "Total_CMS_Payments": "$1,247,341.00",
+        "Total_Residents": "11.56",
+        "Payment_Per_Resident": "$107,901.47"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT JOSEPH HOSPITAL",
+        "State": "CO",
+        "Total_CMS_Payments": "$13,861,607.00",
+        "Total_Residents": "104.57",
+        "Payment_Per_Resident": "$132,558.16"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SKY RIDGE MEDICAL CENTER",
+        "State": "CO",
+        "Total_CMS_Payments": "$15,685,524.00",
+        "Total_Residents": "81.78",
+        "Payment_Per_Resident": "$191,801.47"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SWEDISH MEDICAL CENTER",
+        "State": "CO",
+        "Total_CMS_Payments": "$6,951,394.00",
+        "Total_Residents": "36.2",
+        "Payment_Per_Resident": "$192,027.46"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE MEDICAL CENTER OF AURORA",
+        "State": "CO",
+        "Total_CMS_Payments": "$4,959,108.00",
+        "Total_Residents": "37.5",
+        "Payment_Per_Resident": "$132,242.88"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF CO HOSPITAL",
+        "State": "CO",
+        "Total_CMS_Payments": "$53,637,004.00",
+        "Total_Residents": "422.91",
+        "Payment_Per_Resident": "$126,828.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BRIDGEPORT HOSPITAL",
+        "State": "CT",
+        "Total_CMS_Payments": "$25,848,298.00",
+        "Total_Residents": "106.23",
+        "Payment_Per_Resident": "$243,323.90"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DANBURY HOSPITAL",
+        "State": "CT",
+        "Total_CMS_Payments": "$21,818,814.00",
+        "Total_Residents": "91.04",
+        "Payment_Per_Resident": "$239,661.84"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HARTFORD HOSPITAL",
+        "State": "CT",
+        "Total_CMS_Payments": "$64,800,480.00",
+        "Total_Residents": "249.56",
+        "Payment_Per_Resident": "$259,658.92"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JOHN DEMPSEY HOSPITAL",
+        "State": "CT",
+        "Total_CMS_Payments": "$40,124,908.00",
+        "Total_Residents": "147.36",
+        "Payment_Per_Resident": "$272,291.72"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MANCHESTER MEMORIAL HOSPITAL",
+        "State": "CT",
+        "Total_CMS_Payments": "$4,992,222.00",
+        "Total_Residents": "30.46",
+        "Payment_Per_Resident": "$163,894.35"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORWALK HOSPITAL",
+        "State": "CT",
+        "Total_CMS_Payments": "$11,843,008.00",
+        "Total_Residents": "55.18",
+        "Payment_Per_Resident": "$214,625.01"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT FRANCIS HOSPITAL",
+        "State": "CT",
+        "Total_CMS_Payments": "$30,332,560.00",
+        "Total_Residents": "127.7",
+        "Payment_Per_Resident": "$237,529.84"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. MARYS HOSPITAL",
+        "State": "CT",
+        "Total_CMS_Payments": "$9,303,393.00",
+        "Total_Residents": "45.11",
+        "Payment_Per_Resident": "$206,237.93"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. VINCENTS MEDICAL CENTER",
+        "State": "CT",
+        "Total_CMS_Payments": "$13,342,605.00",
+        "Total_Residents": "46.52",
+        "Payment_Per_Resident": "$286,814.38"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE HOSPITAL OF CENTRAL CONNECTICUT",
+        "State": "CT",
+        "Total_CMS_Payments": "$10,238,309.00",
+        "Total_Residents": "43.7",
+        "Payment_Per_Resident": "$234,286.25"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE STAMFORD HOSPITAL",
+        "State": "CT",
+        "Total_CMS_Payments": "$9,521,422.00",
+        "Total_Residents": "66.51",
+        "Payment_Per_Resident": "$143,157.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WATERBURY HOSPITAL",
+        "State": "CT",
+        "Total_CMS_Payments": "$9,640,542.00",
+        "Total_Residents": "44.85",
+        "Payment_Per_Resident": "$214,950.77"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "YALE-NEW HAVEN HOSPITAL",
+        "State": "CT",
+        "Total_CMS_Payments": "$140,602,160.00",
+        "Total_Residents": "769.47",
+        "Payment_Per_Resident": "$182,725.98"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GEORGE WASHINGTON UNIV HOSPITAL",
+        "State": "DC",
+        "Total_CMS_Payments": "$36,748,852.00",
+        "Total_Residents": "288.68",
+        "Payment_Per_Resident": "$127,299.61"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GEORGETOWN UNIVERSITY HOSPITAL",
+        "State": "DC",
+        "Total_CMS_Payments": "$41,381,264.00",
+        "Total_Residents": "309.72",
+        "Payment_Per_Resident": "$133,608.63"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HOWARD UNIVERSITY HOSPITAL",
+        "State": "DC",
+        "Total_CMS_Payments": "$27,743,472.00",
+        "Total_Residents": "188.16",
+        "Payment_Per_Resident": "$147,446.17"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WASHINGTON HOSPITAL CENTER",
+        "State": "DC",
+        "Total_CMS_Payments": "$76,974,032.00",
+        "Total_Residents": "331.13",
+        "Payment_Per_Resident": "$232,458.65"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CHRISTIANA CARE HEALTH SYSTEM",
+        "State": "DE",
+        "Total_CMS_Payments": "$41,612,848.00",
+        "Total_Residents": "230.99",
+        "Payment_Per_Resident": "$180,150.00"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ADVENTHEALTH ORLANDO",
+        "State": "FL",
+        "Total_CMS_Payments": "$21,844,000.00",
+        "Total_Residents": "166.94",
+        "Payment_Per_Resident": "$130,849.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AVENTURA HOSPITAL AND MED CTR",
+        "State": "FL",
+        "Total_CMS_Payments": "$27,595,184.00",
+        "Total_Residents": "152.12",
+        "Payment_Per_Resident": "$181,404.05"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BAPTIST MEDICAL CENTER",
+        "State": "FL",
+        "Total_CMS_Payments": "$5,889,958.00",
+        "Total_Residents": "55.82",
+        "Payment_Per_Resident": "$105,516.98"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BAYFRONT HEALTH ST. PETERSBURG",
+        "State": "FL",
+        "Total_CMS_Payments": "$3,705,397.00",
+        "Total_Residents": "34.85",
+        "Payment_Per_Resident": "$106,324.16"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BETHESDA HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$7,621,212.00",
+        "Total_Residents": "39.57",
+        "Payment_Per_Resident": "$192,600.76"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BOCA RATON REGIONAL HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$17,254,240.00",
+        "Total_Residents": "73.03",
+        "Payment_Per_Resident": "$236,262.36"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BROWARD HEALTH CORAL SPRINGS",
+        "State": "FL",
+        "Total_CMS_Payments": "$396,594.00",
+        "Total_Residents": "4.96",
+        "Payment_Per_Resident": "$79,958.47"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BROWARD HEALTH MEDICAL CENTER",
+        "State": "FL",
+        "Total_CMS_Payments": "$7,970,632.00",
+        "Total_Residents": "127.31",
+        "Payment_Per_Resident": "$62,608.06"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BROWARD HEALTH NORTH",
+        "State": "FL",
+        "Total_CMS_Payments": "$383,125.00",
+        "Total_Residents": "27.78",
+        "Payment_Per_Resident": "$13,791.40"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CCF HOSPITAL - WESTON",
+        "State": "FL",
+        "Total_CMS_Payments": "$12,486,703.00",
+        "Total_Residents": "92.85",
+        "Payment_Per_Resident": "$134,482.53"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DELRAY MEDICAL CENTER",
+        "State": "FL",
+        "Total_CMS_Payments": "$5,747,185.00",
+        "Total_Residents": "33",
+        "Payment_Per_Resident": "$174,157.12"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HCA FL BLAKE HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$15,607,214.00",
+        "Total_Residents": "5.49",
+        "Payment_Per_Resident": "$2,842,844.08"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HCA FLORIDA BAYONET POINT HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$28,611,976.00",
+        "Total_Residents": "110.2",
+        "Payment_Per_Resident": "$259,636.81"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HCA FLORIDA BRANDON HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$22,124,272.00",
+        "Total_Residents": "155.21",
+        "Payment_Per_Resident": "$142,544.11"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HCA FLORIDA JFK HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$8,949,394.00",
+        "Total_Residents": "52.8",
+        "Payment_Per_Resident": "$169,496.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HCA FLORIDA MERCY HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$1,962,864.00",
+        "Total_Residents": "4.52",
+        "Payment_Per_Resident": "$434,261.95"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HCA FLORIDA OCALA HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$38,060,152.00",
+        "Total_Residents": "132.3",
+        "Payment_Per_Resident": "$287,680.67"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HCA FLORIDA ORANGE PARK HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$21,080,368.00",
+        "Total_Residents": "137.18",
+        "Payment_Per_Resident": "$153,669.40"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HCA FLORIDA PALMS WEST HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$2,183,985.00",
+        "Total_Residents": "21.84",
+        "Payment_Per_Resident": "$99,999.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HOLY CROSS HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$15,938,893.00",
+        "Total_Residents": "81.55",
+        "Payment_Per_Resident": "$195,449.33"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JACKSON MEMORIAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$63,644,724.00",
+        "Total_Residents": "602.03",
+        "Payment_Per_Resident": "$105,716.86"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KENDALL REGIONAL MEDICAL CENTER",
+        "State": "FL",
+        "Total_CMS_Payments": "$19,387,802.00",
+        "Total_Residents": "130.54",
+        "Payment_Per_Resident": "$148,520.01"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LARGO MEDICAL CENTER",
+        "State": "FL",
+        "Total_CMS_Payments": "$23,151,270.00",
+        "Total_Residents": "115.07",
+        "Payment_Per_Resident": "$201,192.93"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LARKIN COMMUNITY HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$24,601,024.00",
+        "Total_Residents": "220.59",
+        "Payment_Per_Resident": "$111,523.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MAYO CLINIC FLORIDA",
+        "State": "FL",
+        "Total_CMS_Payments": "$27,044,016.00",
+        "Total_Residents": "148.37",
+        "Payment_Per_Resident": "$182,274.15"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL HOSPITAL OF JACKSONVILLE",
+        "State": "FL",
+        "Total_CMS_Payments": "$249,018.00",
+        "Total_Residents": "7.56",
+        "Payment_Per_Resident": "$32,938.89"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL REGIONAL HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$6,137,981.00",
+        "Total_Residents": "63.89",
+        "Payment_Per_Resident": "$96,071.08"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MOFFITT CANCER CENTER",
+        "State": "FL",
+        "Total_CMS_Payments": "$1,477,002.00",
+        "Total_Residents": "81.94",
+        "Payment_Per_Resident": "$18,025.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MOUNT SINAI MEDICAL CENTER OF FLORID",
+        "State": "FL",
+        "Total_CMS_Payments": "$28,612,726.00",
+        "Total_Residents": "170.29",
+        "Payment_Per_Resident": "$168,023.52"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORTH FLORIDA REGIONAL MED CTR",
+        "State": "FL",
+        "Total_CMS_Payments": "$36,113,892.00",
+        "Total_Residents": "160.72",
+        "Payment_Per_Resident": "$224,700.67"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORTHSIDE HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$5,865,339.00",
+        "Total_Residents": "33.56",
+        "Payment_Per_Resident": "$174,771.72"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OAK HILL HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$28,761,456.00",
+        "Total_Residents": "127.65",
+        "Payment_Per_Resident": "$225,314.97"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ORLANDO HEALTH",
+        "State": "FL",
+        "Total_CMS_Payments": "$22,022,728.00",
+        "Total_Residents": "249.21",
+        "Payment_Per_Resident": "$88,370.16"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OSCEOLA REGIONAL MEDICAL CENTER",
+        "State": "FL",
+        "Total_CMS_Payments": "$23,792,948.00",
+        "Total_Residents": "126.98",
+        "Payment_Per_Resident": "$187,375.56"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PALMETTO GENERAL HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$7,958,852.00",
+        "Total_Residents": "57.54",
+        "Payment_Per_Resident": "$138,318.60"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PALMETTO GENERAL HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$6,124,511.00",
+        "Total_Residents": "43.52",
+        "Payment_Per_Resident": "$140,728.65"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SHANDS JACKSONVILLE MEDICAL CENTER",
+        "State": "FL",
+        "Total_CMS_Payments": "$39,040,660.00",
+        "Total_Residents": "271.69",
+        "Payment_Per_Resident": "$143,695.61"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. LUCIE MEDICAL CENTER",
+        "State": "FL",
+        "Total_CMS_Payments": "$8,114,086.00",
+        "Total_Residents": "30.25",
+        "Payment_Per_Resident": "$268,234.25"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. PETERSBURG GENERAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$4,384,717.00",
+        "Total_Residents": "33.67",
+        "Payment_Per_Resident": "$130,226.23"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TAMPA GENERAL HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$43,091,576.00",
+        "Total_Residents": "285.66",
+        "Payment_Per_Resident": "$150,849.18"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UF HEALTH SHANDS",
+        "State": "FL",
+        "Total_CMS_Payments": "$82,525,088.00",
+        "Total_Residents": "568.9",
+        "Payment_Per_Resident": "$145,060.80"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF MIAMI HOSP &amp; CLINICS",
+        "State": "FL",
+        "Total_CMS_Payments": "$2,813,489.00",
+        "Total_Residents": "171.94",
+        "Payment_Per_Resident": "$16,363.20"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WEST KENDALL BAPTIST HOSPITAL",
+        "State": "FL",
+        "Total_CMS_Payments": "$2,551,616.00",
+        "Total_Residents": "11.48",
+        "Payment_Per_Resident": "$222,266.20"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ADVENTHEALTH REDMOND",
+        "State": "GA",
+        "Total_CMS_Payments": "$14,448,267.00",
+        "Total_Residents": "50.4",
+        "Payment_Per_Resident": "$286,671.96"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AHN THE MEDICAL CENTER",
+        "State": "GA",
+        "Total_CMS_Payments": "$15,028,063.00",
+        "Total_Residents": "98.32",
+        "Payment_Per_Resident": "$152,848.48"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ATLANTA MEDICAL CENTER",
+        "State": "GA",
+        "Total_CMS_Payments": "$6,283,545.00",
+        "Total_Residents": "78.07",
+        "Payment_Per_Resident": "$80,486.04"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AU MEDICAL CENTER INC",
+        "State": "GA",
+        "Total_CMS_Payments": "$36,254,640.00",
+        "Total_Residents": "422.44",
+        "Payment_Per_Resident": "$85,821.99"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "EMORY UNIVERSITY HOSPITAL",
+        "State": "GA",
+        "Total_CMS_Payments": "$51,540,596.00",
+        "Total_Residents": "269.5",
+        "Payment_Per_Resident": "$191,245.25"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "EMORY UNIVERSITY HOSPITAL MIDTOWN",
+        "State": "GA",
+        "Total_CMS_Payments": "$10,382,808.00",
+        "Total_Residents": "79.94",
+        "Payment_Per_Resident": "$129,882.51"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GRADY MEMORIAL HOSPITAL",
+        "State": "GA",
+        "Total_CMS_Payments": "$44,333,040.00",
+        "Total_Residents": "463.61",
+        "Payment_Per_Resident": "$95,625.72"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KENNESTONE HOSPITAL",
+        "State": "GA",
+        "Total_CMS_Payments": "$28,290,192.00",
+        "Total_Residents": "138.69",
+        "Payment_Per_Resident": "$203,981.48"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL HEALTH UNIV MED CENTER",
+        "State": "GA",
+        "Total_CMS_Payments": "$21,504,572.00",
+        "Total_Residents": "138.94",
+        "Payment_Per_Resident": "$154,775.96"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PIEDMONT HOSPITAL INC.",
+        "State": "GA",
+        "Total_CMS_Payments": "$1,253,430.00",
+        "Total_Residents": "9.32",
+        "Payment_Per_Resident": "$134,488.20"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. JOSEPHS OF ATLANTA",
+        "State": "GA",
+        "Total_CMS_Payments": "$735,975.00",
+        "Total_Residents": "18.05",
+        "Payment_Per_Resident": "$40,774.24"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY HEALTH SERVICES INC.",
+        "State": "GA",
+        "Total_CMS_Payments": "$895,871.00",
+        "Total_Residents": "6.62",
+        "Payment_Per_Resident": "$135,327.95"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KFH-HAWAII",
+        "State": "HI",
+        "Total_CMS_Payments": "$1,027,809.00",
+        "Total_Residents": "26.44",
+        "Payment_Per_Resident": "$38,873.26"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KUAKINI MEDICAL CENTER",
+        "State": "HI",
+        "Total_CMS_Payments": "$2,425,085.00",
+        "Total_Residents": "15.31",
+        "Payment_Per_Resident": "$158,398.76"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PALI MOMI MEDICAL CENTER",
+        "State": "HI",
+        "Total_CMS_Payments": "$3,420,167.00",
+        "Total_Residents": "15.11",
+        "Payment_Per_Resident": "$226,351.22"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "STRAUB CLINIC &amp; HOSPITAL",
+        "State": "HI",
+        "Total_CMS_Payments": "$2,290,682.00",
+        "Total_Residents": "8.48",
+        "Payment_Per_Resident": "$270,127.59"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE QUEENS MEDICAL CENTER",
+        "State": "HI",
+        "Total_CMS_Payments": "$21,555,900.00",
+        "Total_Residents": "96.17",
+        "Payment_Per_Resident": "$224,143.70"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BROADLAWNS MEDICAL CENTER",
+        "State": "IA",
+        "Total_CMS_Payments": "$1,409,990.00",
+        "Total_Residents": "33.94",
+        "Payment_Per_Resident": "$41,543.61"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "IOWA METHODIST MEDICAL CENTER",
+        "State": "IA",
+        "Total_CMS_Payments": "$13,201,021.00",
+        "Total_Residents": "93.78",
+        "Payment_Per_Resident": "$140,765.85"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERCY MEDICAL CENTER-DES MOINES",
+        "State": "IA",
+        "Total_CMS_Payments": "$6,501,441.00",
+        "Total_Residents": "64.38",
+        "Payment_Per_Resident": "$100,985.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERCYONE NORTH IOWA MEDICAL CENTER",
+        "State": "IA",
+        "Total_CMS_Payments": "$7,180,141.00",
+        "Total_Residents": "39.24",
+        "Payment_Per_Resident": "$182,980.15"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. LUKES METHODIST HOSPITAL",
+        "State": "IA",
+        "Total_CMS_Payments": "$742,706.00",
+        "Total_Residents": "3.37",
+        "Payment_Per_Resident": "$220,387.54"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF IOWA HOSP &amp; CLINICS",
+        "State": "IA",
+        "Total_CMS_Payments": "$59,297,944.00",
+        "Total_Residents": "582.36",
+        "Payment_Per_Resident": "$101,823.52"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PORTNEUF MEDICAL CENTER",
+        "State": "ID",
+        "Total_CMS_Payments": "$3,367,223.00",
+        "Total_Residents": "18.12",
+        "Payment_Per_Resident": "$185,829.08"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. ALPHONSUS REGIONAL MED CENTER",
+        "State": "ID",
+        "Total_CMS_Payments": "$2,471,770.00",
+        "Total_Residents": "11.72",
+        "Payment_Per_Resident": "$210,901.88"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ADVOCATE CHRIST HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$55,567,336.00",
+        "Total_Residents": "224.15",
+        "Payment_Per_Resident": "$247,902.46"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ADVOCATE LUTHERAN GENERAL HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$36,685,724.00",
+        "Total_Residents": "206.54",
+        "Payment_Per_Resident": "$177,620.43"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ADVOCATE NORTHSIDE HEALTH SYSTEM",
+        "State": "IL",
+        "Total_CMS_Payments": "$27,137,124.00",
+        "Total_Residents": "156.37",
+        "Payment_Per_Resident": "$173,544.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BOARD OF TRUSTEES OF THE UNIVERSITY",
+        "State": "IL",
+        "Total_CMS_Payments": "$45,528,144.00",
+        "Total_Residents": "443.09",
+        "Payment_Per_Resident": "$102,751.46"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CARLE BROMENN MEDICAL CENTER",
+        "State": "IL",
+        "Total_CMS_Payments": "$1,714,223.00",
+        "Total_Residents": "9.06",
+        "Payment_Per_Resident": "$189,207.84"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CARLE FOUNDATION HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$11,126,059.00",
+        "Total_Residents": "82.9",
+        "Payment_Per_Resident": "$134,210.60"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "COPLEY MEMORIAL HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$2,326,088.00",
+        "Total_Residents": "13.08",
+        "Payment_Per_Resident": "$177,835.47"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DECATUR MEMORIAL HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$2,148,075.00",
+        "Total_Residents": "15.16",
+        "Payment_Per_Resident": "$141,693.60"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "FRANCISCAN ST. JAMES HEALTH",
+        "State": "IL",
+        "Total_CMS_Payments": "$25,395,474.00",
+        "Total_Residents": "108.04",
+        "Payment_Per_Resident": "$235,056.22"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HOLY CROSS HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$286,321.00",
+        "Total_Residents": "3.53",
+        "Payment_Per_Resident": "$81,110.76"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JOHN H. STROGER JR. HOSP OF COOK CTY",
+        "State": "IL",
+        "Total_CMS_Payments": "$17,602,240.00",
+        "Total_Residents": "364.52",
+        "Payment_Per_Resident": "$48,288.82"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LOUIS A. WEISS MEMORIAL HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$12,686,224.00",
+        "Total_Residents": "59.44",
+        "Payment_Per_Resident": "$213,429.07"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LOYOLA UNIVERSITY MEDICAL CENTER",
+        "State": "IL",
+        "Total_CMS_Payments": "$67,187,560.00",
+        "Total_Residents": "421.44",
+        "Payment_Per_Resident": "$159,423.79"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MACNEAL HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$15,189,512.00",
+        "Total_Residents": "100.84",
+        "Payment_Per_Resident": "$150,629.83"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL MEDICAL CENTER",
+        "State": "IL",
+        "Total_CMS_Payments": "$20,388,328.00",
+        "Total_Residents": "211.69",
+        "Payment_Per_Resident": "$96,312.19"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "METHODIST MEDICAL CTR OF ILLINOIS",
+        "State": "IL",
+        "Total_CMS_Payments": "$4,980,317.00",
+        "Total_Residents": "41.22",
+        "Payment_Per_Resident": "$120,822.83"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MOUNT SINAI HOSPITAL MEDICAL CENTER",
+        "State": "IL",
+        "Total_CMS_Payments": "$9,016,929.00",
+        "Total_Residents": "92.34",
+        "Payment_Per_Resident": "$97,649.22"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORTHSHORE UNIVERSITY HEALTHSYSTEM",
+        "State": "IL",
+        "Total_CMS_Payments": "$39,311,968.00",
+        "Total_Residents": "188.12",
+        "Payment_Per_Resident": "$208,972.83"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORTHWESTERN MEMORIAL HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$67,070,168.00",
+        "Total_Residents": "568.94",
+        "Payment_Per_Resident": "$117,886.19"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OAK PARK HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$651,776.00",
+        "Total_Residents": "7.1",
+        "Payment_Per_Resident": "$91,799.44"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OSF HEART OF MARY MEDICAL CENTER",
+        "State": "IL",
+        "Total_CMS_Payments": "$872,610.00",
+        "Total_Residents": "6.12",
+        "Payment_Per_Resident": "$142,583.33"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PRESENCE RESURRECTION MEDICAL CENTER",
+        "State": "IL",
+        "Total_CMS_Payments": "$18,883,164.00",
+        "Total_Residents": "69.64",
+        "Payment_Per_Resident": "$271,153.99"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PRESENCE SAINT FRANCIS HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$16,372,383.00",
+        "Total_Residents": "82.53",
+        "Payment_Per_Resident": "$198,380.99"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PRESENCE SAINT JOSEPH HOSP-CHICAGO",
+        "State": "IL",
+        "Total_CMS_Payments": "$11,311,961.00",
+        "Total_Residents": "100.36",
+        "Payment_Per_Resident": "$112,713.84"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PRESENCE SAINTS MARY &amp; ELIZABETH MED",
+        "State": "IL",
+        "Total_CMS_Payments": "$6,094,208.00",
+        "Total_Residents": "59.98",
+        "Payment_Per_Resident": "$101,604.00"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PROVIDENT HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$140,428.00",
+        "Total_Residents": "1.84",
+        "Payment_Per_Resident": "$76,319.57"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RIVERSIDE MEDICAL CENTER",
+        "State": "IL",
+        "Total_CMS_Payments": "$3,061,793.00",
+        "Total_Residents": "18.13",
+        "Payment_Per_Resident": "$168,879.92"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RUSH UNIVERSITY MEDICAL CENTER",
+        "State": "IL",
+        "Total_CMS_Payments": "$91,898,088.00",
+        "Total_Residents": "551.72",
+        "Payment_Per_Resident": "$166,566.53"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT ANTHONY HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$224,519.00",
+        "Total_Residents": "5.68",
+        "Payment_Per_Resident": "$39,527.99"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT ANTHONY MEDICAL CENTER",
+        "State": "IL",
+        "Total_CMS_Payments": "$1,809,011.00",
+        "Total_Residents": "2.93",
+        "Payment_Per_Resident": "$617,409.90"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT FRANCIS MEDICAL CENTER",
+        "State": "IL",
+        "Total_CMS_Payments": "$30,322,628.00",
+        "Total_Residents": "215.09",
+        "Payment_Per_Resident": "$140,976.47"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SHIRLEY RYAN ABILITYLAB",
+        "State": "IL",
+        "Total_CMS_Payments": "$947,495.00",
+        "Total_Residents": "27.35",
+        "Payment_Per_Resident": "$34,643.33"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. JOHNS HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$10,015,404.00",
+        "Total_Residents": "73.77",
+        "Payment_Per_Resident": "$135,765.27"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SWEDISH COVENANT HEALTH",
+        "State": "IL",
+        "Total_CMS_Payments": "$8,564,315.00",
+        "Total_Residents": "56.21",
+        "Payment_Per_Resident": "$152,362.84"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SWEDISHAMERICAN HOSPITAL",
+        "State": "IL",
+        "Total_CMS_Payments": "$2,554,219.00",
+        "Total_Residents": "19.15",
+        "Payment_Per_Resident": "$133,379.58"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF CHICAGO HOSPITALS",
+        "State": "IL",
+        "Total_CMS_Payments": "$105,011,720.00",
+        "Total_Residents": "596.94",
+        "Payment_Per_Resident": "$175,916.71"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WEST SUBURBAN HOSP MED CTR",
+        "State": "IL",
+        "Total_CMS_Payments": "$8,362,832.00",
+        "Total_Residents": "57.02",
+        "Payment_Per_Resident": "$146,664.89"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ASCENSION ST. VINCENT EVANSVILLE",
+        "State": "IN",
+        "Total_CMS_Payments": "$1,910,881.00",
+        "Total_Residents": "25.28",
+        "Payment_Per_Resident": "$75,588.65"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ASCENSION ST. VINCENT HOSPITAL",
+        "State": "IN",
+        "Total_CMS_Payments": "$18,466,472.00",
+        "Total_Residents": "148.25",
+        "Payment_Per_Resident": "$124,563.05"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BALL MEMORIAL HOSPITAL",
+        "State": "IN",
+        "Total_CMS_Payments": "$14,051,852.00",
+        "Total_Residents": "63.5",
+        "Payment_Per_Resident": "$221,289.01"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "COMMUNITY HEALTH NETWORK INC.",
+        "State": "IN",
+        "Total_CMS_Payments": "$5,748,245.00",
+        "Total_Residents": "45.72",
+        "Payment_Per_Resident": "$125,727.14"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "COMMUNITY HOSPITAL OF INDIANA INC.",
+        "State": "IN",
+        "Total_CMS_Payments": "$1,052,244.00",
+        "Total_Residents": "4.29",
+        "Payment_Per_Resident": "$245,278.32"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "COMMUNITY HOSPITAL SOUTH",
+        "State": "IN",
+        "Total_CMS_Payments": "$1,766,435.00",
+        "Total_Residents": "7.12",
+        "Payment_Per_Resident": "$248,094.80"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DEACONESS HOSPITAL",
+        "State": "IN",
+        "Total_CMS_Payments": "$5,071,964.00",
+        "Total_Residents": "21.57",
+        "Payment_Per_Resident": "$235,139.73"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ESKENAZI HEALTH",
+        "State": "IN",
+        "Total_CMS_Payments": "$14,140,905.00",
+        "Total_Residents": "208.9",
+        "Payment_Per_Resident": "$67,692.22"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "FRANCISCAN HEALTH- DYER",
+        "State": "IN",
+        "Total_CMS_Payments": "$1,374,729.00",
+        "Total_Residents": "1.61",
+        "Payment_Per_Resident": "$853,868.94"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "INDIANA UNIVERSITY HEALTH",
+        "State": "IN",
+        "Total_CMS_Payments": "$68,992,864.00",
+        "Total_Residents": "592.18",
+        "Payment_Per_Resident": "$116,506.58"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. JOSEPHS REG MED CENTER S. BEND",
+        "State": "IN",
+        "Total_CMS_Payments": "$6,715,118.00",
+        "Total_Residents": "26.43",
+        "Payment_Per_Resident": "$254,071.81"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST.FRANCIS HEALTH CENTER",
+        "State": "KS",
+        "Total_CMS_Payments": "$202,613.00",
+        "Total_Residents": "1.79",
+        "Payment_Per_Resident": "$113,191.62"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF KANSAS HOSPITAL",
+        "State": "KS",
+        "Total_CMS_Payments": "$41,156,616.00",
+        "Total_Residents": "359.54",
+        "Payment_Per_Resident": "$114,470.20"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "VIA CHRISTI HOSPITAL WICHITA",
+        "State": "KS",
+        "Total_CMS_Payments": "$24,131,628.00",
+        "Total_Residents": "134.64",
+        "Payment_Per_Resident": "$179,230.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WESLEY MEDICAL CENTER",
+        "State": "KS",
+        "Total_CMS_Payments": "$16,779,516.00",
+        "Total_Residents": "111.69",
+        "Payment_Per_Resident": "$150,232.93"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BAPTIST HEALTH LEXINGTON",
+        "State": "KY",
+        "Total_CMS_Payments": "$755,514.00",
+        "Total_Residents": "3.52",
+        "Payment_Per_Resident": "$214,634.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORTON HOSPITALS INC",
+        "State": "KY",
+        "Total_CMS_Payments": "$20,183,754.00",
+        "Total_Residents": "175.33",
+        "Payment_Per_Resident": "$115,118.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PIKEVILLE MEDICAL CENTER",
+        "State": "KY",
+        "Total_CMS_Payments": "$2,639,176.00",
+        "Total_Residents": "14.04",
+        "Payment_Per_Resident": "$187,975.50"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. CLAIRE MEDICAL CENTER",
+        "State": "KY",
+        "Total_CMS_Payments": "$1,778,891.00",
+        "Total_Residents": "15.33",
+        "Payment_Per_Resident": "$116,039.86"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE MEDICAL CENTER",
+        "State": "KY",
+        "Total_CMS_Payments": "$9,669,656.00",
+        "Total_Residents": "59.28",
+        "Payment_Per_Resident": "$163,118.35"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY HOSPITAL",
+        "State": "KY",
+        "Total_CMS_Payments": "$37,730,232.00",
+        "Total_Residents": "614.4",
+        "Payment_Per_Resident": "$61,409.88"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF LOUISVILLE HOSPITAL",
+        "State": "KY",
+        "Total_CMS_Payments": "$29,888,772.00",
+        "Total_Residents": "288.83",
+        "Payment_Per_Resident": "$103,482.23"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UOFL HEALTH-LOUISVILLE",
+        "State": "KY",
+        "Total_CMS_Payments": "$3,054,260.00",
+        "Total_Residents": "58.94",
+        "Payment_Per_Resident": "$51,819.82"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BATON ROUGE GENERAL",
+        "State": "LA",
+        "Total_CMS_Payments": "$12,915,172.00",
+        "Total_Residents": "69.38",
+        "Payment_Per_Resident": "$186,151.23"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "EAST JEFFERSON GENERAL HOSPITAL",
+        "State": "LA",
+        "Total_CMS_Payments": "$5,078,813.00",
+        "Total_Residents": "24.69",
+        "Payment_Per_Resident": "$205,703.24"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "EAST JEFFERSON GENERAL HOSPITAL",
+        "State": "LA",
+        "Total_CMS_Payments": "$1,222,027.00",
+        "Total_Residents": "6.47",
+        "Payment_Per_Resident": "$188,875.89"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LAFAYETTE GENERAL MEDICAL CENTER",
+        "State": "LA",
+        "Total_CMS_Payments": "$3,363,662.00",
+        "Total_Residents": "19.37",
+        "Payment_Per_Resident": "$173,653.18"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OCHSNER CLINIC FOUNDATION",
+        "State": "LA",
+        "Total_CMS_Payments": "$43,460,820.00",
+        "Total_Residents": "313.88",
+        "Payment_Per_Resident": "$138,463.17"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OCHSNER LSU HEALTH MONROE",
+        "State": "LA",
+        "Total_CMS_Payments": "$1,828,574.00",
+        "Total_Residents": "29.58",
+        "Payment_Per_Resident": "$61,817.92"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OCHSNER LSU HEALTH SHREVEPORT",
+        "State": "LA",
+        "Total_CMS_Payments": "$26,853,204.00",
+        "Total_Residents": "258.9",
+        "Payment_Per_Resident": "$103,720.37"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OCHSNER MEDICAL CENTER - KENNER LLC",
+        "State": "LA",
+        "Total_CMS_Payments": "$6,629,352.00",
+        "Total_Residents": "38.88",
+        "Payment_Per_Resident": "$170,508.02"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OUR LADY OF THE ANGELS HOSPITAL MC",
+        "State": "LA",
+        "Total_CMS_Payments": "$61,633.00",
+        "Total_Residents": "15.36",
+        "Payment_Per_Resident": "$4,012.57"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OUR LADY OF THE LAKE RMC",
+        "State": "LA",
+        "Total_CMS_Payments": "$26,415,634.00",
+        "Total_Residents": "174.56",
+        "Payment_Per_Resident": "$151,326.96"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RAPIDES REGIONAL MEDICAL CENTER",
+        "State": "LA",
+        "Total_CMS_Payments": "$2,050,580.00",
+        "Total_Residents": "22.84",
+        "Payment_Per_Resident": "$89,780.21"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SOUTHERN REGIONAL MEDICAL CORP",
+        "State": "LA",
+        "Total_CMS_Payments": "$567,309.00",
+        "Total_Residents": "28.58",
+        "Payment_Per_Resident": "$19,849.86"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TOURO INFIRMARY",
+        "State": "LA",
+        "Total_CMS_Payments": "$4,339,114.00",
+        "Total_Residents": "38.91",
+        "Payment_Per_Resident": "$111,516.68"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TULANE UNIVERSITY HOSPITAL &amp; CLINICS",
+        "State": "LA",
+        "Total_CMS_Payments": "$23,649,004.00",
+        "Total_Residents": "170.17",
+        "Payment_Per_Resident": "$138,972.82"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY HOSPITAL &amp; CLINICS",
+        "State": "LA",
+        "Total_CMS_Payments": "$6,717,676.00",
+        "Total_Residents": "62.73",
+        "Payment_Per_Resident": "$107,088.73"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY MEDICAL CTR. AT NEW ORLEA",
+        "State": "LA",
+        "Total_CMS_Payments": "$26,583,148.00",
+        "Total_Residents": "352.53",
+        "Payment_Per_Resident": "$75,406.77"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WEST JEFFERSON MEDICAL CENTER",
+        "State": "LA",
+        "Total_CMS_Payments": "$3,646,733.00",
+        "Total_Residents": "22.47",
+        "Payment_Per_Resident": "$162,293.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WILLIS-KNIGHTON HEALTH SYSTEMS",
+        "State": "LA",
+        "Total_CMS_Payments": "$2,259,146.00",
+        "Total_Residents": "12.98",
+        "Payment_Per_Resident": "$174,048.23"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BAYSTATE MEDICAL CENTER",
+        "State": "MA",
+        "Total_CMS_Payments": "$80,245,536.00",
+        "Total_Residents": "318.05",
+        "Payment_Per_Resident": "$252,304.78"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BERKSHIRE MEDICAL CENTER",
+        "State": "MA",
+        "Total_CMS_Payments": "$13,704,769.00",
+        "Total_Residents": "66.91",
+        "Payment_Per_Resident": "$204,823.93"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BETH ISRAEL DEACONESS HOSPITAL- NEED",
+        "State": "MA",
+        "Total_CMS_Payments": "$57,531.00",
+        "Total_Residents": "3.66",
+        "Payment_Per_Resident": "$15,718.85"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BETH ISRAEL DEACONESS MEDICAL CENTER",
+        "State": "MA",
+        "Total_CMS_Payments": "$111,147,040.00",
+        "Total_Residents": "550.32",
+        "Payment_Per_Resident": "$201,968.02"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BOSTON MEDICAL CENTER",
+        "State": "MA",
+        "Total_CMS_Payments": "$70,983,872.00",
+        "Total_Residents": "466.43",
+        "Payment_Per_Resident": "$152,185.48"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BRIGHAM AND WOMENS HOSPITAL",
+        "State": "MA",
+        "Total_CMS_Payments": "$131,206,744.00",
+        "Total_Residents": "547.35",
+        "Payment_Per_Resident": "$239,712.70"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BROCKTON HOSPITAL INC.",
+        "State": "MA",
+        "Total_CMS_Payments": "$3,192,471.00",
+        "Total_Residents": "13.93",
+        "Payment_Per_Resident": "$229,179.54"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CAMBRIDGE HEALTH ALLIANCE",
+        "State": "MA",
+        "Total_CMS_Payments": "$10,001,163.00",
+        "Total_Residents": "97.49",
+        "Payment_Per_Resident": "$102,586.55"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DANA-FARBER CANCER INSTITUTE",
+        "State": "MA",
+        "Total_CMS_Payments": "$868,859.00",
+        "Total_Residents": "38.91",
+        "Payment_Per_Resident": "$22,329.97"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "FAULKNER HOSPITAL",
+        "State": "MA",
+        "Total_CMS_Payments": "$6,576,859.00",
+        "Total_Residents": "30.74",
+        "Payment_Per_Resident": "$213,951.17"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LAHEY CLINIC HOSPITAL INC.",
+        "State": "MA",
+        "Total_CMS_Payments": "$49,076,912.00",
+        "Total_Residents": "158.19",
+        "Payment_Per_Resident": "$310,240.29"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LEMUEL SHATTUCK HOSPITAL",
+        "State": "MA",
+        "Total_CMS_Payments": "$1,244.00",
+        "Total_Residents": "40.5",
+        "Payment_Per_Resident": "$30.72"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MASSACHUSETTS GENERAL HOSPITAL",
+        "State": "MA",
+        "Total_CMS_Payments": "$150,813,136.00",
+        "Total_Residents": "597.35",
+        "Payment_Per_Resident": "$252,470.30"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MCLEAN HOSPITAL",
+        "State": "MA",
+        "Total_CMS_Payments": "$530,742.00",
+        "Total_Residents": "24.98",
+        "Payment_Per_Resident": "$21,246.68"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "METROWEST MEDICAL CENTER",
+        "State": "MA",
+        "Total_CMS_Payments": "$6,608,999.00",
+        "Total_Residents": "37.13",
+        "Payment_Per_Resident": "$177,996.20"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MILFORD REGIONAL MEDICAL CENTER INC",
+        "State": "MA",
+        "Total_CMS_Payments": "$2,649,565.00",
+        "Total_Residents": "12.8",
+        "Payment_Per_Resident": "$206,997.27"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MOUNT AUBURN HOSPITAL",
+        "State": "MA",
+        "Total_CMS_Payments": "$14,113,719.00",
+        "Total_Residents": "72.96",
+        "Payment_Per_Resident": "$193,444.61"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NEWTON WELLESLEY HOSPITAL",
+        "State": "MA",
+        "Total_CMS_Payments": "$10,036,211.00",
+        "Total_Residents": "48.96",
+        "Payment_Per_Resident": "$204,987.97"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORTH SHORE MEDICAL CENTER",
+        "State": "MA",
+        "Total_CMS_Payments": "$6,338,600.00",
+        "Total_Residents": "28.13",
+        "Payment_Per_Resident": "$225,332.39"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT VINCENT HOSPITAL",
+        "State": "MA",
+        "Total_CMS_Payments": "$27,230,156.00",
+        "Total_Residents": "105.69",
+        "Payment_Per_Resident": "$257,641.74"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "STEWARD CARNEY HOSPITAL INC",
+        "State": "MA",
+        "Total_CMS_Payments": "$3,342,044.00",
+        "Total_Residents": "31.16",
+        "Payment_Per_Resident": "$107,254.30"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "STEWARD ST. ELIZABETHS MEDICAL CTR",
+        "State": "MA",
+        "Total_CMS_Payments": "$31,431,344.00",
+        "Total_Residents": "142.44",
+        "Payment_Per_Resident": "$220,663.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TUFTS MEDICAL CENTER",
+        "State": "MA",
+        "Total_CMS_Payments": "$53,404,896.00",
+        "Total_Residents": "324.09",
+        "Payment_Per_Resident": "$164,784.15"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UMASS MEMORIAL MEDICAL CENTER",
+        "State": "MA",
+        "Total_CMS_Payments": "$103,048,792.00",
+        "Total_Residents": "480.11",
+        "Payment_Per_Resident": "$214,635.80"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WINCHESTER HOSPITAL",
+        "State": "MA",
+        "Total_CMS_Payments": "$276,907.00",
+        "Total_Residents": "2.08",
+        "Payment_Per_Resident": "$133,128.37"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GOOD SAMARITAN HOSPITAL",
+        "State": "MD",
+        "Total_CMS_Payments": "$3,534,158.00",
+        "Total_Residents": "15.19",
+        "Payment_Per_Resident": "$232,663.46"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GREATER BALTIMORE MEDICAL CENTER",
+        "State": "MD",
+        "Total_CMS_Payments": "$4,656,530.00",
+        "Total_Residents": "54.47",
+        "Payment_Per_Resident": "$85,487.98"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HOLY CROSS HOSPITAL",
+        "State": "MD",
+        "Total_CMS_Payments": "$1,744,018.00",
+        "Total_Residents": "32.1",
+        "Payment_Per_Resident": "$54,330.78"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JOHNS HOPKINS BAYVIEW MED. CTR.",
+        "State": "MD",
+        "Total_CMS_Payments": "$24,915,532.00",
+        "Total_Residents": "143.59",
+        "Payment_Per_Resident": "$173,518.57"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MARYLAND GENERAL HOSPITAL",
+        "State": "MD",
+        "Total_CMS_Payments": "$6,163,733.00",
+        "Total_Residents": "53.87",
+        "Payment_Per_Resident": "$114,418.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEDSTAR FRANKLIN SQUARE MEDICAL CTR",
+        "State": "MD",
+        "Total_CMS_Payments": "$13,566,654.00",
+        "Total_Residents": "78.68",
+        "Payment_Per_Resident": "$172,428.24"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEDSTAR UNION MEMORIAL HOSPITAL",
+        "State": "MD",
+        "Total_CMS_Payments": "$16,600,856.00",
+        "Total_Residents": "96.35",
+        "Payment_Per_Resident": "$172,297.42"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERCY MEDICAL CENTER",
+        "State": "MD",
+        "Total_CMS_Payments": "$5,588,135.00",
+        "Total_Residents": "52.01",
+        "Payment_Per_Resident": "$107,443.47"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PRINCE GEORGES HOSPITAL CENTER INC",
+        "State": "MD",
+        "Total_CMS_Payments": "$9,226,743.00",
+        "Total_Residents": "52.7",
+        "Payment_Per_Resident": "$175,080.51"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SINAI HOSPITAL OF BALTIMORE INC.",
+        "State": "MD",
+        "Total_CMS_Payments": "$24,944,372.00",
+        "Total_Residents": "145.25",
+        "Payment_Per_Resident": "$171,734.06"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. AGNES HOSPITAL",
+        "State": "MD",
+        "Total_CMS_Payments": "$7,659,978.00",
+        "Total_Residents": "69.95",
+        "Payment_Per_Resident": "$109,506.48"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE JOHNS HOPKINS HOSPITAL",
+        "State": "MD",
+        "Total_CMS_Payments": "$128,630,384.00",
+        "Total_Residents": "758.42",
+        "Payment_Per_Resident": "$169,603.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF MARYLAND MED SYS",
+        "State": "MD",
+        "Total_CMS_Payments": "$64,882,692.00",
+        "Total_Residents": "556.24",
+        "Payment_Per_Resident": "$116,645.14"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MAINE MEDICAL CENTER",
+        "State": "ME",
+        "Total_CMS_Payments": "$41,010,316.00",
+        "Total_Residents": "218.16",
+        "Payment_Per_Resident": "$187,982.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MAINEGENERAL MEDICAL CENTER",
+        "State": "ME",
+        "Total_CMS_Payments": "$6,023,050.00",
+        "Total_Residents": "27.82",
+        "Payment_Per_Resident": "$216,500.72"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ASCENSION BORGESS HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$19,061,142.00",
+        "Total_Residents": "94.33",
+        "Payment_Per_Resident": "$202,068.72"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ASCENSION MACOMB-OAKLAND HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$34,858,064.00",
+        "Total_Residents": "134.81",
+        "Payment_Per_Resident": "$258,571.80"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ASCENSION PROVIDENCE HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$44,934,456.00",
+        "Total_Residents": "183.32",
+        "Payment_Per_Resident": "$245,114.86"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ASCENSION PROVIDENCE ROCHESTER HOSPI",
+        "State": "MI",
+        "Total_CMS_Payments": "$14,711,774.00",
+        "Total_Residents": "60.11",
+        "Payment_Per_Resident": "$244,747.53"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ASCENSION ST JOHN HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$37,461,764.00",
+        "Total_Residents": "231.92",
+        "Payment_Per_Resident": "$161,528.82"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BEAUMONT HEALTH - GROSSE POINTE",
+        "State": "MI",
+        "Total_CMS_Payments": "$3,703,073.00",
+        "Total_Residents": "15.45",
+        "Payment_Per_Resident": "$239,681.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BEAUMONT HEALTH - TRENTON",
+        "State": "MI",
+        "Total_CMS_Payments": "$11,055,397.00",
+        "Total_Residents": "41.58",
+        "Payment_Per_Resident": "$265,882.56"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BEAUMONT HEALTH WAYNE",
+        "State": "MI",
+        "Total_CMS_Payments": "$8,000,754.00",
+        "Total_Residents": "27.04",
+        "Payment_Per_Resident": "$295,885.87"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BEAUMONT HOSPITAL - DEARBORN",
+        "State": "MI",
+        "Total_CMS_Payments": "$25,013,404.00",
+        "Total_Residents": "121.34",
+        "Payment_Per_Resident": "$206,143.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BEAUMONT HOSPITAL - TAYLOR",
+        "State": "MI",
+        "Total_CMS_Payments": "$5,532,095.00",
+        "Total_Residents": "26.38",
+        "Payment_Per_Resident": "$209,707.92"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BEAUMONT HOSPITAL- FARMINGTON HILLS",
+        "State": "MI",
+        "Total_CMS_Payments": "$29,155,488.00",
+        "Total_Residents": "123.95",
+        "Payment_Per_Resident": "$235,219.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BRONSON METHODIST HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$17,396,532.00",
+        "Total_Residents": "116.27",
+        "Payment_Per_Resident": "$149,621.85"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "COVENANT MEDICAL CENTER",
+        "State": "MI",
+        "Total_CMS_Payments": "$12,415,299.00",
+        "Total_Residents": "65.93",
+        "Payment_Per_Resident": "$188,310.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DETROIT RECEIVING HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$32,565,564.00",
+        "Total_Residents": "193.31",
+        "Payment_Per_Resident": "$168,462.90"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "EDWARD W. SPARROW HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$27,212,996.00",
+        "Total_Residents": "209.43",
+        "Payment_Per_Resident": "$129,938.39"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GARDEN CITY HOSPITAL OSTEOPATHIC",
+        "State": "MI",
+        "Total_CMS_Payments": "$12,177,771.00",
+        "Total_Residents": "62.37",
+        "Payment_Per_Resident": "$195,250.46"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GENESYS REGIONAL MEDICAL CTR.",
+        "State": "MI",
+        "Total_CMS_Payments": "$30,683,272.00",
+        "Total_Residents": "134.81",
+        "Payment_Per_Resident": "$227,603.83"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HARPER- HUTZEL HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$28,000,888.00",
+        "Total_Residents": "227.03",
+        "Payment_Per_Resident": "$123,335.63"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HENRY FORD HEALTH MACOMB HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$32,284,600.00",
+        "Total_Residents": "105.96",
+        "Payment_Per_Resident": "$304,686.67"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HENRY FORD HEALTH WYANDOTTE HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$11,145,144.00",
+        "Total_Residents": "45.64",
+        "Payment_Per_Resident": "$244,196.84"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HENRY FORD HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$115,255,008.00",
+        "Total_Residents": "569.04",
+        "Payment_Per_Resident": "$202,542.89"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HENRY FORD WEST BLOOMFIELD HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$4,194,014.00",
+        "Total_Residents": "24.73",
+        "Payment_Per_Resident": "$169,592.16"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HURLEY MEDICAL CENTER",
+        "State": "MI",
+        "Total_CMS_Payments": "$14,537,057.00",
+        "Total_Residents": "114.21",
+        "Payment_Per_Resident": "$127,283.57"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HURON VALLEY-SINAI HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$7,265,684.00",
+        "Total_Residents": "39.87",
+        "Payment_Per_Resident": "$182,234.36"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KARMANOS CANCER HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$1,232,300.00",
+        "Total_Residents": "31.23",
+        "Payment_Per_Resident": "$39,458.85"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LAKELAND MEDICAL CENTER ST. JOSEPH",
+        "State": "MI",
+        "Total_CMS_Payments": "$12,259,693.00",
+        "Total_Residents": "63.79",
+        "Payment_Per_Resident": "$192,188.32"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MCLAREN FLINT",
+        "State": "MI",
+        "Total_CMS_Payments": "$21,072,970.00",
+        "Total_Residents": "73.45",
+        "Payment_Per_Resident": "$286,902.25"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MCLAREN GREATER LANSING",
+        "State": "MI",
+        "Total_CMS_Payments": "$14,569,083.00",
+        "Total_Residents": "102.41",
+        "Payment_Per_Resident": "$142,262.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MCLAREN MACOMB",
+        "State": "MI",
+        "Total_CMS_Payments": "$16,413,312.00",
+        "Total_Residents": "88.59",
+        "Payment_Per_Resident": "$185,272.74"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MCLAREN OAKLAND",
+        "State": "MI",
+        "Total_CMS_Payments": "$11,251,754.00",
+        "Total_Residents": "78.84",
+        "Payment_Per_Resident": "$142,716.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERCY HEALTH MUSKEGON",
+        "State": "MI",
+        "Total_CMS_Payments": "$15,140,982.00",
+        "Total_Residents": "59.25",
+        "Payment_Per_Resident": "$255,544.00"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "METROPOLITAN HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$10,945,752.00",
+        "Total_Residents": "66.91",
+        "Payment_Per_Resident": "$163,589.18"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MONROE REGIONAL HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$6,473,923.00",
+        "Total_Residents": "37.92",
+        "Payment_Per_Resident": "$170,725.82"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PONTIAC GENERAL HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$869,113.00",
+        "Total_Residents": "19.9",
+        "Payment_Per_Resident": "$43,674.02"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "REHABILITATION INSTITUTE OF MICHIGAN",
+        "State": "MI",
+        "Total_CMS_Payments": "$876,590.00",
+        "Total_Residents": "11.65",
+        "Payment_Per_Resident": "$75,243.78"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT MARYS HEALTH CARE",
+        "State": "MI",
+        "Total_CMS_Payments": "$16,809,700.00",
+        "Total_Residents": "92.99",
+        "Payment_Per_Resident": "$180,768.90"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SINAI-GRACE HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$31,406,382.00",
+        "Total_Residents": "182.2",
+        "Payment_Per_Resident": "$172,373.12"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SJMHS - LIVINGSTON",
+        "State": "MI",
+        "Total_CMS_Payments": "$8,702,048.00",
+        "Total_Residents": "30.03",
+        "Payment_Per_Resident": "$289,778.49"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SPECTRUM HEALTH HOSPITALS",
+        "State": "MI",
+        "Total_CMS_Payments": "$54,527,560.00",
+        "Total_Residents": "320.8",
+        "Payment_Per_Resident": "$169,973.69"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST JOSEPH MERCY HOSPITAL ANN ARBOR",
+        "State": "MI",
+        "Total_CMS_Payments": "$33,996,844.00",
+        "Total_Residents": "142.25",
+        "Payment_Per_Resident": "$238,993.63"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. JOSEPH MERCY HOSPITAL-OAKLAND",
+        "State": "MI",
+        "Total_CMS_Payments": "$30,880,652.00",
+        "Total_Residents": "122.32",
+        "Payment_Per_Resident": "$252,457.91"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. MARY MERCY HOSPITAL - LIVONIA",
+        "State": "MI",
+        "Total_CMS_Payments": "$35,735,260.00",
+        "Total_Residents": "123.69",
+        "Payment_Per_Resident": "$288,909.86"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. MARYS OF MICHIGAN",
+        "State": "MI",
+        "Total_CMS_Payments": "$6,013,482.00",
+        "Total_Residents": "38.73",
+        "Payment_Per_Resident": "$155,266.77"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIV OF MI HOSPITALS &amp; HLTH CTRS",
+        "State": "MI",
+        "Total_CMS_Payments": "$117,477,400.00",
+        "Total_Residents": "911.29",
+        "Payment_Per_Resident": "$128,913.30"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "W.A. FOOTE MEMORIAL HOSPITAL",
+        "State": "MI",
+        "Total_CMS_Payments": "$20,232,984.00",
+        "Total_Residents": "108.54",
+        "Payment_Per_Resident": "$186,410.39"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WILLIAM BEAUMONT HOSPITAL - TROY",
+        "State": "MI",
+        "Total_CMS_Payments": "$8,855,441.00",
+        "Total_Residents": "31.96",
+        "Payment_Per_Resident": "$277,078.88"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WILLIAM BEAUMONT HOSPITAL- ROYAL OAK",
+        "State": "MI",
+        "Total_CMS_Payments": "$71,542,208.00",
+        "Total_Residents": "413.88",
+        "Payment_Per_Resident": "$172,857.37"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ABBOTT NORTHWESTERN HOSPITAL",
+        "State": "MN",
+        "Total_CMS_Payments": "$9,509,543.00",
+        "Total_Residents": "42.46",
+        "Payment_Per_Resident": "$223,964.74"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HEALTHEAST ST JOHNS HOSPITAL",
+        "State": "MN",
+        "Total_CMS_Payments": "$2,250,248.00",
+        "Total_Residents": "11.85",
+        "Payment_Per_Resident": "$189,894.35"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HEALTHEAST WOODWINDS HOSPITAL",
+        "State": "MN",
+        "Total_CMS_Payments": "$577,107.00",
+        "Total_Residents": "13.81",
+        "Payment_Per_Resident": "$41,789.07"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HENNEPIN COUNTY MEDICAL CENTER",
+        "State": "MN",
+        "Total_CMS_Payments": "$35,695,188.00",
+        "Total_Residents": "262.92",
+        "Payment_Per_Resident": "$135,764.45"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MAYO CLINIC HOSPITAL ROCHESTER",
+        "State": "MN",
+        "Total_CMS_Payments": "$97,756,768.00",
+        "Total_Residents": "530.94",
+        "Payment_Per_Resident": "$184,120.18"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERCY HOSPITAL",
+        "State": "MN",
+        "Total_CMS_Payments": "$144,979.00",
+        "Total_Residents": "1.13",
+        "Payment_Per_Resident": "$128,300.00"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORTH MEMORIAL HEALTH HOSPITAL",
+        "State": "MN",
+        "Total_CMS_Payments": "$4,693,538.00",
+        "Total_Residents": "27.59",
+        "Payment_Per_Resident": "$170,117.36"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PARK NICOLLET METHODIST HOSPITAL",
+        "State": "MN",
+        "Total_CMS_Payments": "$8,418,057.00",
+        "Total_Residents": "32.97",
+        "Payment_Per_Resident": "$255,324.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "REGIONS HOSPITAL",
+        "State": "MN",
+        "Total_CMS_Payments": "$32,716,828.00",
+        "Total_Residents": "130.44",
+        "Payment_Per_Resident": "$250,818.98"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. MARYS MEDICAL CENTER",
+        "State": "MN",
+        "Total_CMS_Payments": "$3,380,712.00",
+        "Total_Residents": "15.47",
+        "Payment_Per_Resident": "$218,533.42"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNITED HOSPITAL",
+        "State": "MN",
+        "Total_CMS_Payments": "$4,245,928.00",
+        "Total_Residents": "18.71",
+        "Payment_Per_Resident": "$226,933.62"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF MINNESOTA MEDICAL CTR",
+        "State": "MN",
+        "Total_CMS_Payments": "$40,855,992.00",
+        "Total_Residents": "318.42",
+        "Payment_Per_Resident": "$128,308.50"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AMEND #1 CENTERPOINT MEDICAL CENTER",
+        "State": "MO",
+        "Total_CMS_Payments": "$53,726.00",
+        "Total_Residents": "0.42",
+        "Payment_Per_Resident": "$127,919.05"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AMEND #2 RESEARCH MEDICAL CENTER",
+        "State": "MO",
+        "Total_CMS_Payments": "$8,156,543.00",
+        "Total_Residents": "45.76",
+        "Payment_Per_Resident": "$178,246.13"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BARNES JEWISH WEST COUNTY HOSPITAL",
+        "State": "MO",
+        "Total_CMS_Payments": "$1,855,458.00",
+        "Total_Residents": "15.92",
+        "Payment_Per_Resident": "$116,548.87"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BARNES-JEWISH HOSPITAL",
+        "State": "MO",
+        "Total_CMS_Payments": "$113,965,360.00",
+        "Total_Residents": "698.84",
+        "Payment_Per_Resident": "$163,077.90"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CAPITAL REGION MEDICAL CENTER",
+        "State": "MO",
+        "Total_CMS_Payments": "$2,029,714.00",
+        "Total_Residents": "11.95",
+        "Payment_Per_Resident": "$169,850.54"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "FREEMAN OAK HILL HEALTH SYSTEM",
+        "State": "MO",
+        "Total_CMS_Payments": "$1,819,667.00",
+        "Total_Residents": "33.1",
+        "Payment_Per_Resident": "$54,974.83"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERCY HOSPITAL - ST. LOUIS",
+        "State": "MO",
+        "Total_CMS_Payments": "$15,611,524.00",
+        "Total_Residents": "82.15",
+        "Payment_Per_Resident": "$190,036.81"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MISSOURI BAPTIST MEDICAL CENTER",
+        "State": "MO",
+        "Total_CMS_Payments": "$1,175,794.00",
+        "Total_Residents": "6.95",
+        "Payment_Per_Resident": "$169,178.99"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORTHEAST REGIONAL MEDICAL CENTER",
+        "State": "MO",
+        "Total_CMS_Payments": "$3,896,225.00",
+        "Total_Residents": "30.61",
+        "Payment_Per_Resident": "$127,286.02"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT LUKES HOSPITAL OF KANSAS CITY",
+        "State": "MO",
+        "Total_CMS_Payments": "$20,158,064.00",
+        "Total_Residents": "101.44",
+        "Payment_Per_Resident": "$198,719.09"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SSM HEALTH ST. MARYS HOSPITAL - STL",
+        "State": "MO",
+        "Total_CMS_Payments": "$16,139,844.00",
+        "Total_Residents": "181.68",
+        "Payment_Per_Resident": "$88,836.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SSM SAINT LOUIS UNIVERSITY HOSPITAL",
+        "State": "MO",
+        "Total_CMS_Payments": "$51,262,940.00",
+        "Total_Residents": "246.69",
+        "Payment_Per_Resident": "$207,803.07"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIV OF MISSOURI HEALTH CARE",
+        "State": "MO",
+        "Total_CMS_Payments": "$34,497,968.00",
+        "Total_Residents": "377.28",
+        "Payment_Per_Resident": "$91,438.63"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY HEALTH LAKEWOOD MED CTR",
+        "State": "MO",
+        "Total_CMS_Payments": "$4,162,589.00",
+        "Total_Residents": "47.9",
+        "Payment_Per_Resident": "$86,901.65"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY HEALTH TRUMAN MED CENTER",
+        "State": "MO",
+        "Total_CMS_Payments": "$9,972,575.00",
+        "Total_Residents": "165.56",
+        "Payment_Per_Resident": "$60,235.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MAGNOLIA HOSPITAL",
+        "State": "MS",
+        "Total_CMS_Payments": "$5,636,853.00",
+        "Total_Residents": "21.71",
+        "Payment_Per_Resident": "$259,643.16"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERIT HEALTH WESLEY",
+        "State": "MS",
+        "Total_CMS_Payments": "$10,685,228.00",
+        "Total_Residents": "52.8",
+        "Payment_Per_Resident": "$202,371.74"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORTH MISSISSIPPI MEDICAL CENTER",
+        "State": "MS",
+        "Total_CMS_Payments": "$4,758,316.00",
+        "Total_Residents": "24.9",
+        "Payment_Per_Resident": "$191,097.03"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF MISSISSIPPI MEDICAL",
+        "State": "MS",
+        "Total_CMS_Payments": "$31,532,440.00",
+        "Total_Residents": "516.55",
+        "Payment_Per_Resident": "$61,044.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BILLINGS CLINIC",
+        "State": "MT",
+        "Total_CMS_Payments": "$6,733,757.00",
+        "Total_Residents": "36.05",
+        "Payment_Per_Resident": "$186,789.38"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ATRIUM HEALTH CABARRUS",
+        "State": "NC",
+        "Total_CMS_Payments": "$4,571,456.00",
+        "Total_Residents": "25.96",
+        "Payment_Per_Resident": "$176,096.15"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BLUE RIDGE HEALTHCARE HOSPITALS",
+        "State": "NC",
+        "Total_CMS_Payments": "$3,509,996.00",
+        "Total_Residents": "23.29",
+        "Payment_Per_Resident": "$150,708.29"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CAROLINAS MEDICAL CENTER",
+        "State": "NC",
+        "Total_CMS_Payments": "$28,884,184.00",
+        "Total_Residents": "266.41",
+        "Payment_Per_Resident": "$108,420.04"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DUKE REGIONAL HOSPITAL",
+        "State": "NC",
+        "Total_CMS_Payments": "$5,415,690.00",
+        "Total_Residents": "52.22",
+        "Payment_Per_Resident": "$103,709.12"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DUKE UNIVERSITY HOSPITAL",
+        "State": "NC",
+        "Total_CMS_Payments": "$87,623,536.00",
+        "Total_Residents": "597.74",
+        "Payment_Per_Resident": "$146,591.39"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "FORSYTH MEMORIAL HOSPITAL INC",
+        "State": "NC",
+        "Total_CMS_Payments": "$836,553.00",
+        "Total_Residents": "2.88",
+        "Payment_Per_Resident": "$290,469.79"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MARGARET R. PARDEE MEMORIAL HOSPITAL",
+        "State": "NC",
+        "Total_CMS_Payments": "$1,218,891.00",
+        "Total_Residents": "10.96",
+        "Payment_Per_Resident": "$111,212.68"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MISSION HOSPITAL INC",
+        "State": "NC",
+        "Total_CMS_Payments": "$17,418,052.00",
+        "Total_Residents": "85.52",
+        "Payment_Per_Resident": "$203,672.26"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NEW HANOVER REGIONAL MEDICAL CENTER",
+        "State": "NC",
+        "Total_CMS_Payments": "$4,270,869.00",
+        "Total_Residents": "25.78",
+        "Payment_Per_Resident": "$165,665.98"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NEW HANOVER REGIONAL MEDICAL CENTER",
+        "State": "NC",
+        "Total_CMS_Payments": "$11,591,534.00",
+        "Total_Residents": "70.81",
+        "Payment_Per_Resident": "$163,699.11"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORTH CAROLINA BAPTIST HOSPITAL",
+        "State": "NC",
+        "Total_CMS_Payments": "$36,150,708.00",
+        "Total_Residents": "595.13",
+        "Payment_Per_Resident": "$60,744.22"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PITT COUNTY MEMORIAL HOSPITAL",
+        "State": "NC",
+        "Total_CMS_Payments": "$40,475,652.00",
+        "Total_Residents": "335.5",
+        "Payment_Per_Resident": "$120,642.78"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "S.E. REGL MEDICAL CENTER",
+        "State": "NC",
+        "Total_CMS_Payments": "$8,386,474.00",
+        "Total_Residents": "52.37",
+        "Payment_Per_Resident": "$160,138.90"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "S.E. REGL MEDICAL CENTER",
+        "State": "NC",
+        "Total_CMS_Payments": "$10,404,986.00",
+        "Total_Residents": "72.81",
+        "Payment_Per_Resident": "$142,906.00"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF NORTH CAROLINA HOSP.",
+        "State": "NC",
+        "Total_CMS_Payments": "$71,019,424.00",
+        "Total_Residents": "685.8",
+        "Payment_Per_Resident": "$103,557.05"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WAKEMED RALEIGH CAMPUS",
+        "State": "NC",
+        "Total_CMS_Payments": "$10,545,297.00",
+        "Total_Residents": "61.54",
+        "Payment_Per_Resident": "$171,356.79"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ALTRU HEALTH SYSTEM-ALTRU HOSPITAL",
+        "State": "ND",
+        "Total_CMS_Payments": "$3,330,491.00",
+        "Total_Residents": "26.58",
+        "Payment_Per_Resident": "$125,300.64"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SANFORD MEDICAL CENTER - FARGO",
+        "State": "ND",
+        "Total_CMS_Payments": "$11,229,591.00",
+        "Total_Residents": "79.41",
+        "Payment_Per_Resident": "$141,412.81"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TRINITY HOSPITALS/ST JOES",
+        "State": "ND",
+        "Total_CMS_Payments": "$1,003,460.00",
+        "Total_Residents": "11.22",
+        "Payment_Per_Resident": "$89,434.94"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CHI HEALTH CREIGHTON UNIVERSITY BERG",
+        "State": "NE",
+        "Total_CMS_Payments": "$20,551,850.00",
+        "Total_Residents": "151.45",
+        "Payment_Per_Resident": "$135,700.56"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CHI HEALTH IMMANUEL",
+        "State": "NE",
+        "Total_CMS_Payments": "$1,409,418.00",
+        "Total_Residents": "16.94",
+        "Payment_Per_Resident": "$83,200.59"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NEBRASKA METHODIST HOSPITAL",
+        "State": "NE",
+        "Total_CMS_Payments": "$2,219,095.00",
+        "Total_Residents": "13.8",
+        "Payment_Per_Resident": "$160,803.99"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE NEBRASKA MEDICAL CENTER",
+        "State": "NE",
+        "Total_CMS_Payments": "$38,426,344.00",
+        "Total_Residents": "352.44",
+        "Payment_Per_Resident": "$109,029.46"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CONCORD HOSPITAL INC.",
+        "State": "NH",
+        "Total_CMS_Payments": "$7,149,467.00",
+        "Total_Residents": "27.07",
+        "Payment_Per_Resident": "$264,110.34"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MARY HITCHCOCK MEMORIAL HOSP",
+        "State": "NH",
+        "Total_CMS_Payments": "$69,890,848.00",
+        "Total_Residents": "312.18",
+        "Payment_Per_Resident": "$223,879.97"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SOUTHERN NH MEDICAL CENTER",
+        "State": "NH",
+        "Total_CMS_Payments": "$548,073.00",
+        "Total_Residents": "4.12",
+        "Payment_Per_Resident": "$133,027.43"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ATLANTICARE REGIONAL MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$7,971,463.00",
+        "Total_Residents": "71.36",
+        "Payment_Per_Resident": "$111,707.72"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "COOPER UNIVERSITY HOSPITAL",
+        "State": "NJ",
+        "Total_CMS_Payments": "$47,512,248.00",
+        "Total_Residents": "327.44",
+        "Payment_Per_Resident": "$145,102.15"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "COOPERMAN BARNABAS MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$29,149,160.00",
+        "Total_Residents": "157.92",
+        "Payment_Per_Resident": "$184,581.81"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DEBORAH HEART AND LUNG CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$8,722,138.00",
+        "Total_Residents": "18.83",
+        "Payment_Per_Resident": "$463,204.35"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ENGLEWOOD HOSPITAL &amp; MED CTR",
+        "State": "NJ",
+        "Total_CMS_Payments": "$13,718,119.00",
+        "Total_Residents": "56.35",
+        "Payment_Per_Resident": "$243,444.88"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HACKENSACK UNIVERSITY MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$36,581,896.00",
+        "Total_Residents": "187.64",
+        "Payment_Per_Resident": "$194,957.88"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HELENE FULD MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$7,430,131.00",
+        "Total_Residents": "48.28",
+        "Payment_Per_Resident": "$153,896.67"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HOBOKEN UNIVERSITY MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$3,922,205.00",
+        "Total_Residents": "23.1",
+        "Payment_Per_Resident": "$169,792.42"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "INSPIRA MEDICAL CENTER ELMER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$2,785,505.00",
+        "Total_Residents": "7.39",
+        "Payment_Per_Resident": "$376,928.96"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "INSPIRA MEDICAL CENTER VINELAND",
+        "State": "NJ",
+        "Total_CMS_Payments": "$27,885,628.00",
+        "Total_Residents": "127.75",
+        "Payment_Per_Resident": "$218,282.80"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JERSEY CITY MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$10,161,660.00",
+        "Total_Residents": "76.95",
+        "Payment_Per_Resident": "$132,055.36"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JERSEY SHORE UNIVERSITY MED CTR",
+        "State": "NJ",
+        "Total_CMS_Payments": "$25,292,958.00",
+        "Total_Residents": "153.27",
+        "Payment_Per_Resident": "$165,022.24"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JFK UNIVERSITY MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$4,958,296.00",
+        "Total_Residents": "27.72",
+        "Payment_Per_Resident": "$178,870.71"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JFK UNIVERSITY MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$4,937,228.00",
+        "Total_Residents": "29.32",
+        "Payment_Per_Resident": "$168,391.13"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KENNEDY UNIVERSITY HOSPITAL",
+        "State": "NJ",
+        "Total_CMS_Payments": "$33,195,256.00",
+        "Total_Residents": "102.93",
+        "Payment_Per_Resident": "$322,503.22"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL HOSP OF BURLINGTON CTY",
+        "State": "NJ",
+        "Total_CMS_Payments": "$2,516,449.00",
+        "Total_Residents": "14.65",
+        "Payment_Per_Resident": "$171,771.26"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MONMOUTH MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$11,620,544.00",
+        "Total_Residents": "105.6",
+        "Payment_Per_Resident": "$110,043.03"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MORRISTOWN MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$39,077,800.00",
+        "Total_Residents": "187.8",
+        "Payment_Per_Resident": "$208,082.00"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NEWARK BETH ISRAEL MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$20,073,920.00",
+        "Total_Residents": "153.42",
+        "Payment_Per_Resident": "$130,842.91"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OUR LADY OF LOURDES MED. CTR.",
+        "State": "NJ",
+        "Total_CMS_Payments": "$8,786,744.00",
+        "Total_Residents": "37.77",
+        "Payment_Per_Resident": "$232,638.18"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OVERLOOK MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$17,549,008.00",
+        "Total_Residents": "80.25",
+        "Payment_Per_Resident": "$218,679.23"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PALISADES MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$14,946,807.00",
+        "Total_Residents": "71.25",
+        "Payment_Per_Resident": "$209,779.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PRINCETON HEALTHCARE SYSTEM",
+        "State": "NJ",
+        "Total_CMS_Payments": "$8,469,432.00",
+        "Total_Residents": "39.15",
+        "Payment_Per_Resident": "$216,332.87"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ROBERT WOOD JOHNSON UNIV HOSP @ SOM",
+        "State": "NJ",
+        "Total_CMS_Payments": "$3,254,211.00",
+        "Total_Residents": "20.33",
+        "Payment_Per_Resident": "$160,069.40"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ROBERT WOOD JOHNSON UNIVERSITY HOSPI",
+        "State": "NJ",
+        "Total_CMS_Payments": "$44,449,052.00",
+        "Total_Residents": "234.25",
+        "Payment_Per_Resident": "$189,750.49"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST LUKES WARREN HOSPITAL",
+        "State": "NJ",
+        "Total_CMS_Payments": "$5,778,601.00",
+        "Total_Residents": "20.8",
+        "Payment_Per_Resident": "$277,817.36"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. JOSEPHS UNIVERSITY MEDICAL CENT",
+        "State": "NJ",
+        "Total_CMS_Payments": "$23,252,848.00",
+        "Total_Residents": "202.72",
+        "Payment_Per_Resident": "$114,704.26"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. MICHAELS MEDICAL CENTER",
+        "State": "NJ",
+        "Total_CMS_Payments": "$12,135,532.00",
+        "Total_Residents": "70.3",
+        "Payment_Per_Resident": "$172,624.92"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. PETERS UNIVERSITY HOSPITAL",
+        "State": "NJ",
+        "Total_CMS_Payments": "$12,415,238.00",
+        "Total_Residents": "120.8",
+        "Payment_Per_Resident": "$102,775.15"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TRINITAS HOSPITAL",
+        "State": "NJ",
+        "Total_CMS_Payments": "$5,151,414.00",
+        "Total_Residents": "54.71",
+        "Payment_Per_Resident": "$94,158.55"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UH - UNIVERSITY HOSPITAL",
+        "State": "NJ",
+        "Total_CMS_Payments": "$28,519,836.00",
+        "Total_Residents": "290.47",
+        "Payment_Per_Resident": "$98,185.13"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "VIRTUA WILLINGBORO HOSPITAL",
+        "State": "NJ",
+        "Total_CMS_Payments": "$312,578.00",
+        "Total_Residents": "1",
+        "Payment_Per_Resident": "$312,578.00"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WEST JERSEY HEALTH SYSTEM",
+        "State": "NJ",
+        "Total_CMS_Payments": "$5,972,929.00",
+        "Total_Residents": "26.04",
+        "Payment_Per_Resident": "$229,375.15"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LOVELACE MEDICAL CENTER- DOWNTOWN",
+        "State": "NM",
+        "Total_CMS_Payments": "$139,329.00",
+        "Total_Residents": "1.24",
+        "Payment_Per_Resident": "$112,362.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MOUNTAIN VIEW REG MED CTR",
+        "State": "NM",
+        "Total_CMS_Payments": "$7,991,781.00",
+        "Total_Residents": "45.59",
+        "Payment_Per_Resident": "$175,296.80"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PRESBYTERIAN HOSPITAL",
+        "State": "NM",
+        "Total_CMS_Payments": "$636,434.00",
+        "Total_Residents": "3.81",
+        "Payment_Per_Resident": "$167,043.04"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF NEW MEXICO HOSPITAL",
+        "State": "NM",
+        "Total_CMS_Payments": "$44,244,828.00",
+        "Total_Residents": "457.23",
+        "Payment_Per_Resident": "$96,767.12"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNM SANDOVAL REGIONAL MEDICAL CENTER",
+        "State": "NM",
+        "Total_CMS_Payments": "$68,380.00",
+        "Total_Residents": "8.81",
+        "Payment_Per_Resident": "$7,761.63"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RENOWN REGIONAL MEDICAL CENTER",
+        "State": "NV",
+        "Total_CMS_Payments": "$7,708,712.00",
+        "Total_Residents": "72.51",
+        "Payment_Per_Resident": "$106,312.40"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SOUTHERN HILLS HOSPITAL &amp; MEDICAL CT",
+        "State": "NV",
+        "Total_CMS_Payments": "$10,216,724.00",
+        "Total_Residents": "0.46",
+        "Payment_Per_Resident": "$22,210,269.57"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SUNRISE HOSPITAL AND MEDICAL CENTER",
+        "State": "NV",
+        "Total_CMS_Payments": "$4,425,080.00",
+        "Total_Residents": "54.07",
+        "Payment_Per_Resident": "$81,839.84"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY MEDICAL CENTER",
+        "State": "NV",
+        "Total_CMS_Payments": "$20,393,844.00",
+        "Total_Residents": "192",
+        "Payment_Per_Resident": "$106,217.94"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "VALLEY HOSPITAL MEDICAL CENTER",
+        "State": "NV",
+        "Total_CMS_Payments": "$17,071,412.00",
+        "Total_Residents": "77.46",
+        "Payment_Per_Resident": "$220,390.03"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ALBANY MEDICAL CENTER HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$53,566,884.00",
+        "Total_Residents": "371.59",
+        "Payment_Per_Resident": "$144,155.88"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ARNOT-OGDEN MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$15,155,915.00",
+        "Total_Residents": "108.58",
+        "Payment_Per_Resident": "$139,582.93"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BELLEVUE HOSPITAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$39,393,592.00",
+        "Total_Residents": "382.41",
+        "Payment_Per_Resident": "$103,014.02"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BRONXCARE HEALTH SYSTEM",
+        "State": "NY",
+        "Total_CMS_Payments": "$47,116,096.00",
+        "Total_Residents": "272.87",
+        "Payment_Per_Resident": "$172,668.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BROOKDALE HOSPITAL MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$66,288,904.00",
+        "Total_Residents": "405.23",
+        "Payment_Per_Resident": "$163,583.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CROUSE HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$6,382,722.00",
+        "Total_Residents": "45.35",
+        "Payment_Per_Resident": "$140,743.59"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ELMHURST HOSPITAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$29,990,186.00",
+        "Total_Residents": "241.67",
+        "Payment_Per_Resident": "$124,095.61"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "EPISCOPAL HEALTH SERVICES",
+        "State": "NY",
+        "Total_CMS_Payments": "$35,869,560.00",
+        "Total_Residents": "135.87",
+        "Payment_Per_Resident": "$263,999.12"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ERIE COUNTY MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$21,533,596.00",
+        "Total_Residents": "143.57",
+        "Payment_Per_Resident": "$149,986.74"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "FLUSHING HOSPITAL MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$16,768,306.00",
+        "Total_Residents": "100.7",
+        "Payment_Per_Resident": "$166,517.44"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GARNET HEALTH MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$24,509,560.00",
+        "Total_Residents": "94.8",
+        "Payment_Per_Resident": "$258,539.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GLEN COVE HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$4,629,071.00",
+        "Total_Residents": "15.41",
+        "Payment_Per_Resident": "$300,393.96"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GOOD SAMARITAN HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$8,862,324.00",
+        "Total_Residents": "54.71",
+        "Payment_Per_Resident": "$161,987.28"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HARLEM HOSPITAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$25,518,228.00",
+        "Total_Residents": "165.07",
+        "Payment_Per_Resident": "$154,590.34"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HIGHLAND HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$15,311,336.00",
+        "Total_Residents": "83.42",
+        "Payment_Per_Resident": "$183,545.15"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HOSPITAL FOR SPECIAL SURGERY",
+        "State": "NY",
+        "Total_CMS_Payments": "$22,972,934.00",
+        "Total_Residents": "64.59",
+        "Payment_Per_Resident": "$355,673.23"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HUNTINGTON HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$7,405,351.00",
+        "Total_Residents": "26.43",
+        "Payment_Per_Resident": "$280,187.33"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JACOBI MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$41,850,148.00",
+        "Total_Residents": "281.36",
+        "Payment_Per_Resident": "$148,742.35"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JAMAICA HOSPITAL MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$32,285,586.00",
+        "Total_Residents": "174.44",
+        "Payment_Per_Resident": "$185,081.32"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KALEIDA HEALTH",
+        "State": "NY",
+        "Total_CMS_Payments": "$77,855,392.00",
+        "Total_Residents": "356.48",
+        "Payment_Per_Resident": "$218,400.45"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LENOX HILL HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$63,949,160.00",
+        "Total_Residents": "207.03",
+        "Payment_Per_Resident": "$308,888.37"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LINCOLN MEDICAL&amp;MENTAL HEALTH CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$39,809,852.00",
+        "Total_Residents": "267.25",
+        "Payment_Per_Resident": "$148,961.09"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LONG ISLAND JEWISH MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$108,050,752.00",
+        "Total_Residents": "541.72",
+        "Payment_Per_Resident": "$199,458.67"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MAIMONIDES MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$100,249,232.00",
+        "Total_Residents": "407.56",
+        "Payment_Per_Resident": "$245,974.17"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MARY IMOGENE BASSETT HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$14,358,629.00",
+        "Total_Residents": "60.77",
+        "Payment_Per_Resident": "$236,278.25"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MATHER HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$26,722,088.00",
+        "Total_Residents": "107.19",
+        "Payment_Per_Resident": "$249,296.46"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL HOSPITAL FOR CANCER AND ALL",
+        "State": "NY",
+        "Total_CMS_Payments": "$7,410,063.00",
+        "Total_Residents": "248.02",
+        "Payment_Per_Resident": "$29,876.88"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERCY HOSPITAL OF BUFFALO",
+        "State": "NY",
+        "Total_CMS_Payments": "$4,336,134.00",
+        "Total_Residents": "20.43",
+        "Payment_Per_Resident": "$212,243.47"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERCY MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$523,430.00",
+        "Total_Residents": "5.79",
+        "Payment_Per_Resident": "$90,402.42"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "METROPOLITAN HOSPITAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$16,899,652.00",
+        "Total_Residents": "173.13",
+        "Payment_Per_Resident": "$97,612.50"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MONTEFIORE MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$266,149,520.00",
+        "Total_Residents": "965.02",
+        "Payment_Per_Resident": "$275,796.90"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MONTEFIORE NEW ROCHELLE HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$11,035,433.00",
+        "Total_Residents": "49.25",
+        "Payment_Per_Resident": "$224,069.71"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MOUNT SINAI HEALTH SYSTEM-BETH ISRAE",
+        "State": "NY",
+        "Total_CMS_Payments": "$63,250,856.00",
+        "Total_Residents": "215.99",
+        "Payment_Per_Resident": "$292,841.59"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MOUNT SINAI HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$221,718,240.00",
+        "Total_Residents": "842.2",
+        "Payment_Per_Resident": "$263,260.79"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MOUNT SINAI ST. LUKES ROOSEVELT HOS",
+        "State": "NY",
+        "Total_CMS_Payments": "$101,383,272.00",
+        "Total_Residents": "454.78",
+        "Payment_Per_Resident": "$222,928.17"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NASSAU UNIVERSITY MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$32,452,420.00",
+        "Total_Residents": "248.07",
+        "Payment_Per_Resident": "$130,819.61"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NEW YORK EYE AND EAR INFIRMARY",
+        "State": "NY",
+        "Total_CMS_Payments": "$694,322.00",
+        "Total_Residents": "32",
+        "Payment_Per_Resident": "$21,697.56"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NEW YORK PRESBYTERIAN HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$278,207,008.00",
+        "Total_Residents": "1394.67",
+        "Payment_Per_Resident": "$199,478.74"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NEW YORK-PRESBYTERIAN/BROOKLYN METHO",
+        "State": "NY",
+        "Total_CMS_Payments": "$63,422,632.00",
+        "Total_Residents": "232.68",
+        "Payment_Per_Resident": "$272,574.49"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NEWYORK-PRESBYTERIAN/QUEENS",
+        "State": "NY",
+        "Total_CMS_Payments": "$49,607,892.00",
+        "Total_Residents": "154.37",
+        "Payment_Per_Resident": "$321,357.08"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NORTH SHORE UNIVERSITY HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$112,251,328.00",
+        "Total_Residents": "317.13",
+        "Payment_Per_Resident": "$353,959.98"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NYC HEALTH + HOSPITAL / SOUTH BROOKL",
+        "State": "NY",
+        "Total_CMS_Payments": "$28,899,160.00",
+        "Total_Residents": "134.87",
+        "Payment_Per_Resident": "$214,274.19"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NYC HEALTH+HOSPITAL/KINGS COUNTY",
+        "State": "NY",
+        "Total_CMS_Payments": "$37,546,756.00",
+        "Total_Residents": "353.17",
+        "Payment_Per_Resident": "$106,313.55"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "NYU LANGONE HOSPITALS",
+        "State": "NY",
+        "Total_CMS_Payments": "$314,577,312.00",
+        "Total_Residents": "810.14",
+        "Payment_Per_Resident": "$388,299.94"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PECONIC BAY MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$11,805,791.00",
+        "Total_Residents": "34.4",
+        "Payment_Per_Resident": "$343,191.60"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PHELPS MEMORIAL HOSPITAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$6,967,024.00",
+        "Total_Residents": "22.87",
+        "Payment_Per_Resident": "$304,635.94"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PLAINVIEW HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$15,385,039.00",
+        "Total_Residents": "43.22",
+        "Payment_Per_Resident": "$355,970.36"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "QUEENS HOSPITAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$12,687,805.00",
+        "Total_Residents": "98.52",
+        "Payment_Per_Resident": "$128,784.05"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RICHMOND UNIVERSITY MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$24,341,396.00",
+        "Total_Residents": "142.7",
+        "Payment_Per_Resident": "$170,577.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ROCHESTER GENERAL HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$37,907,848.00",
+        "Total_Residents": "132.89",
+        "Payment_Per_Resident": "$285,257.34"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ROCHESTER P.C.",
+        "State": "NY",
+        "Total_CMS_Payments": "$59,805.00",
+        "Total_Residents": "2.46",
+        "Payment_Per_Resident": "$24,310.98"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ROCKLAND P.C.",
+        "State": "NY",
+        "Total_CMS_Payments": "$2,989.00",
+        "Total_Residents": "0.97",
+        "Payment_Per_Resident": "$3,081.44"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ROSWELL PARK CANCER INSTITUTE",
+        "State": "NY",
+        "Total_CMS_Payments": "$1,647,619.00",
+        "Total_Residents": "43.01",
+        "Payment_Per_Resident": "$38,307.81"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SBH HEALTH SYSTEM",
+        "State": "NY",
+        "Total_CMS_Payments": "$36,711,960.00",
+        "Total_Residents": "215.59",
+        "Payment_Per_Resident": "$170,286.01"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SISTERS OF CHARITY HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$4,638,522.00",
+        "Total_Residents": "46.44",
+        "Payment_Per_Resident": "$99,882.04"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SOUTH NASSAU COMMUNITIES HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$23,035,320.00",
+        "Total_Residents": "80.04",
+        "Payment_Per_Resident": "$287,797.60"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SOUTH SHORE UNIVERSITY HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$15,323,409.00",
+        "Total_Residents": "47.54",
+        "Payment_Per_Resident": "$322,326.65"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. FRANCIS HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$6,087,278.00",
+        "Total_Residents": "10.8",
+        "Payment_Per_Resident": "$563,636.85"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. JOSEPHS HOSPITAL HEALTH CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$13,494,612.00",
+        "Total_Residents": "50.84",
+        "Payment_Per_Resident": "$265,432.97"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. PETERS HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$4,201,117.00",
+        "Total_Residents": "12.35",
+        "Payment_Per_Resident": "$340,171.42"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "STATEN ISLAND UNIVERSITY HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$73,020,144.00",
+        "Total_Residents": "275.75",
+        "Payment_Per_Resident": "$264,805.60"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "STONY BROOK UNIVERSITY HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$109,426,480.00",
+        "Total_Residents": "512.99",
+        "Payment_Per_Resident": "$213,311.14"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "STRONG MEMORIAL HOSPITAL",
+        "State": "NY",
+        "Total_CMS_Payments": "$94,409,120.00",
+        "Total_Residents": "625.44",
+        "Payment_Per_Resident": "$150,948.32"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE BROOKLYN HOSPITAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$43,362,520.00",
+        "Total_Residents": "218.59",
+        "Payment_Per_Resident": "$198,373.76"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE UNITY HOSPITAL OF ROCHESTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$11,734,430.00",
+        "Total_Residents": "47.76",
+        "Payment_Per_Resident": "$245,695.77"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UHS HOSPITALS",
+        "State": "NY",
+        "Total_CMS_Payments": "$13,810,713.00",
+        "Total_Residents": "67.63",
+        "Payment_Per_Resident": "$204,209.86"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY HOSPITAL AT SYRACUSE",
+        "State": "NY",
+        "Total_CMS_Payments": "$43,083,840.00",
+        "Total_Residents": "451.97",
+        "Payment_Per_Resident": "$95,324.56"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY HOSPITAL OF BROOKLYN",
+        "State": "NY",
+        "Total_CMS_Payments": "$42,466,956.00",
+        "Total_Residents": "301.07",
+        "Payment_Per_Resident": "$141,053.43"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WESTCHESTER MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$43,261,508.00",
+        "Total_Residents": "354.85",
+        "Payment_Per_Resident": "$121,914.92"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WOODHULL HOSPTIAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$12,103,745.00",
+        "Total_Residents": "98.88",
+        "Payment_Per_Resident": "$122,408.42"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WYCKOFF HEIGHTS MEDICAL CENTER",
+        "State": "NY",
+        "Total_CMS_Payments": "$21,863,700.00",
+        "Total_Residents": "111.63",
+        "Payment_Per_Resident": "$195,858.64"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ADENA REGIONAL MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$10,432,501.00",
+        "Total_Residents": "28.9",
+        "Payment_Per_Resident": "$360,986.19"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AKRON GENERAL MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$26,157,496.00",
+        "Total_Residents": "146.71",
+        "Payment_Per_Resident": "$178,293.89"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ARTHUR G JAMES CANCER HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$909,515.00",
+        "Total_Residents": "91.88",
+        "Payment_Per_Resident": "$9,898.94"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AULTMAN HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$18,382,948.00",
+        "Total_Residents": "85.14",
+        "Payment_Per_Resident": "$215,914.35"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BETHESDA HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$11,215,169.00",
+        "Total_Residents": "38.43",
+        "Payment_Per_Resident": "$291,833.70"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CCF MERCY MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$5,105,021.00",
+        "Total_Residents": "19.15",
+        "Payment_Per_Resident": "$266,580.73"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CLEVELAND CLINIC HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$130,489,080.00",
+        "Total_Residents": "715.82",
+        "Payment_Per_Resident": "$182,293.15"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DOCTORS HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$10,807,595.00",
+        "Total_Residents": "97.72",
+        "Payment_Per_Resident": "$110,597.57"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DUBLIN METHODIST HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$2,743,587.00",
+        "Total_Residents": "15.34",
+        "Payment_Per_Resident": "$178,851.83"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "FAIRFIELD MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$5,365,785.00",
+        "Total_Residents": "25.1",
+        "Payment_Per_Resident": "$213,776.29"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "FAIRVIEW HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$9,609,354.00",
+        "Total_Residents": "69.12",
+        "Payment_Per_Resident": "$139,024.22"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "FIRELANDS REGIONAL MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$2,092,878.00",
+        "Total_Residents": "14.57",
+        "Payment_Per_Resident": "$143,642.96"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GOOD SAMARITAN HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$11,199,128.00",
+        "Total_Residents": "70.3",
+        "Payment_Per_Resident": "$159,304.81"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GRANDVIEW HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$14,455,381.00",
+        "Total_Residents": "103.65",
+        "Payment_Per_Resident": "$139,463.40"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GRANT MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$16,342,608.00",
+        "Total_Residents": "88.38",
+        "Payment_Per_Resident": "$184,912.97"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HILLCREST HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$4,296,419.00",
+        "Total_Residents": "30.11",
+        "Payment_Per_Resident": "$142,690.77"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JEWISH HOSPITAL OF CINCINNATI",
+        "State": "OH",
+        "Total_CMS_Payments": "$18,494,952.00",
+        "Total_Residents": "60.33",
+        "Payment_Per_Resident": "$306,563.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KETTERING MEMORIAL HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$18,217,600.00",
+        "Total_Residents": "69.66",
+        "Payment_Per_Resident": "$261,521.68"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LUTHERAN HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$790,964.00",
+        "Total_Residents": "15.79",
+        "Payment_Per_Resident": "$50,092.72"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERCY ST. ANNE HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$771,446.00",
+        "Total_Residents": "2.18",
+        "Payment_Per_Resident": "$353,874.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "METROHEALTH MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$42,427,508.00",
+        "Total_Residents": "322.91",
+        "Payment_Per_Resident": "$131,391.12"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MIAMI VALLEY HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$30,070,326.00",
+        "Total_Residents": "180.6",
+        "Payment_Per_Resident": "$166,502.36"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MOUNT CARMEL HEALTH",
+        "State": "OH",
+        "Total_CMS_Payments": "$13,651,722.00",
+        "Total_Residents": "74.18",
+        "Payment_Per_Resident": "$184,035.08"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OBLENESS MEMORIAL HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$779,742.00",
+        "Total_Residents": "10.53",
+        "Payment_Per_Resident": "$74,049.57"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RIVERSIDE METHODIST HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$34,404,108.00",
+        "Total_Residents": "155.87",
+        "Payment_Per_Resident": "$220,723.09"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SOUTH POINTE HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$5,620,131.00",
+        "Total_Residents": "32.32",
+        "Payment_Per_Resident": "$173,890.19"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST ELIZABETH BOARDMAN HEALTH CTR",
+        "State": "OH",
+        "Total_CMS_Payments": "$5,517,886.00",
+        "Total_Residents": "24.97",
+        "Payment_Per_Resident": "$220,980.62"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST VINCENT MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$27,565,556.00",
+        "Total_Residents": "159.5",
+        "Payment_Per_Resident": "$172,824.80"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. ANNS HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$1,643,802.00",
+        "Total_Residents": "13.12",
+        "Payment_Per_Resident": "$125,289.79"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. CHARLES HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$2,101,766.00",
+        "Total_Residents": "10.31",
+        "Payment_Per_Resident": "$203,857.03"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. ELIZABETH HEALTH CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$19,316,082.00",
+        "Total_Residents": "79.59",
+        "Payment_Per_Resident": "$242,694.84"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. LUKES HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$2,675,589.00",
+        "Total_Residents": "11.67",
+        "Payment_Per_Resident": "$229,270.69"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. VINCENT CHARITY MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$6,878,743.00",
+        "Total_Residents": "56.41",
+        "Payment_Per_Resident": "$121,941.91"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SUMMA HEALTH SYSTEM",
+        "State": "OH",
+        "Total_CMS_Payments": "$41,278,088.00",
+        "Total_Residents": "192.25",
+        "Payment_Per_Resident": "$214,710.47"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SYCAMORE HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$1,968,530.00",
+        "Total_Residents": "13.26",
+        "Payment_Per_Resident": "$148,456.26"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE CHRIST HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$16,636,435.00",
+        "Total_Residents": "75.39",
+        "Payment_Per_Resident": "$220,671.64"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE OHIO STATE UNIVERSITY HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$52,118,988.00",
+        "Total_Residents": "509.23",
+        "Payment_Per_Resident": "$102,348.62"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE TOLEDO HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$37,016,824.00",
+        "Total_Residents": "211.63",
+        "Payment_Per_Resident": "$174,912.93"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TRUMBULL MEMORIAL HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$9,488,287.00",
+        "Total_Residents": "68.13",
+        "Payment_Per_Resident": "$139,267.39"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UH CLEVELAND MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$78,959,560.00",
+        "Total_Residents": "497.83",
+        "Payment_Per_Resident": "$158,607.48"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UH GEAUGA MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$760,671.00",
+        "Total_Residents": "9.83",
+        "Payment_Per_Resident": "$77,382.60"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UH PARMA MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$4,591,901.00",
+        "Total_Residents": "21.89",
+        "Payment_Per_Resident": "$209,771.63"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UH PORTAGE MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$187,627.00",
+        "Total_Residents": "0.84",
+        "Payment_Per_Resident": "$223,365.48"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UH REGIONAL HOSPITALS",
+        "State": "OH",
+        "Total_CMS_Payments": "$13,922,604.00",
+        "Total_Residents": "60.4",
+        "Payment_Per_Resident": "$230,506.69"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UH ST. JOHN MEDICAL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$8,220,568.00",
+        "Total_Residents": "40.36",
+        "Payment_Per_Resident": "$203,681.07"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIV OF TOLEDO MEDL CENTER",
+        "State": "OH",
+        "Total_CMS_Payments": "$11,189,612.00",
+        "Total_Residents": "73.79",
+        "Payment_Per_Resident": "$151,641.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVER.OF CINCINNATI MED CENTER LLC",
+        "State": "OH",
+        "Total_CMS_Payments": "$47,414,184.00",
+        "Total_Residents": "396.86",
+        "Payment_Per_Resident": "$119,473.33"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WESTERN RESERVE HOSPITAL",
+        "State": "OH",
+        "Total_CMS_Payments": "$5,827,883.00",
+        "Total_Residents": "34.58",
+        "Payment_Per_Resident": "$168,533.34"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BASS BAPTIST HEALTH CENTER",
+        "State": "OK",
+        "Total_CMS_Payments": "$37,194.00",
+        "Total_Residents": "0.96",
+        "Payment_Per_Resident": "$38,743.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "COMANCHE COUNTY MEMORIAL HOSPITAL",
+        "State": "OK",
+        "Total_CMS_Payments": "$1,888,331.00",
+        "Total_Residents": "26.72",
+        "Payment_Per_Resident": "$70,671.07"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HILLCREST MEDICAL CENTER",
+        "State": "OK",
+        "Total_CMS_Payments": "$11,693,029.00",
+        "Total_Residents": "63.64",
+        "Payment_Per_Resident": "$183,737.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "INTEGRIS BAPTIST MEDICAL CENTER",
+        "State": "OK",
+        "Total_CMS_Payments": "$6,176,940.00",
+        "Total_Residents": "41.84",
+        "Payment_Per_Resident": "$147,632.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "INTEGRIS SOUTHWEST MEDICAL CENTER",
+        "State": "OK",
+        "Total_CMS_Payments": "$5,268,372.00",
+        "Total_Residents": "25.33",
+        "Payment_Per_Resident": "$207,989.42"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OSU MEDICAL CENTER",
+        "State": "OK",
+        "Total_CMS_Payments": "$17,116,464.00",
+        "Total_Residents": "131.22",
+        "Payment_Per_Resident": "$130,440.97"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OU MEDICAL CENTER",
+        "State": "OK",
+        "Total_CMS_Payments": "$26,220,512.00",
+        "Total_Residents": "351.52",
+        "Payment_Per_Resident": "$74,591.81"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT FRANCIS HOSPITAL",
+        "State": "OK",
+        "Total_CMS_Payments": "$6,903,520.00",
+        "Total_Residents": "71.81",
+        "Payment_Per_Resident": "$96,135.91"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST ANTHONY HOSPITAL",
+        "State": "OK",
+        "Total_CMS_Payments": "$6,204,980.00",
+        "Total_Residents": "43.24",
+        "Payment_Per_Resident": "$143,500.93"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. JOHN MEDICAL CENTER",
+        "State": "OK",
+        "Total_CMS_Payments": "$9,072,125.00",
+        "Total_Residents": "63.15",
+        "Payment_Per_Resident": "$143,659.94"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BAY AREA HOSPITAL",
+        "State": "OR",
+        "Total_CMS_Payments": "$857,582.00",
+        "Total_Residents": "3.88",
+        "Payment_Per_Resident": "$221,026.29"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GOOD SAMARITAN HOSPITAL CORVALLIS",
+        "State": "OR",
+        "Total_CMS_Payments": "$18,172,520.00",
+        "Total_Residents": "79.85",
+        "Payment_Per_Resident": "$227,583.22"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KAISER SUNNYSIDE MEDICAL CENTER",
+        "State": "OR",
+        "Total_CMS_Payments": "$5,034,295.00",
+        "Total_Residents": "19",
+        "Payment_Per_Resident": "$264,962.89"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LEGACY EMANUEL HOSPITAL &amp; HEALTH CTR",
+        "State": "OR",
+        "Total_CMS_Payments": "$6,415,775.00",
+        "Total_Residents": "53.77",
+        "Payment_Per_Resident": "$119,318.86"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LEGACY GOOD SAMARITAN HOSPITAL",
+        "State": "OR",
+        "Total_CMS_Payments": "$8,706,629.00",
+        "Total_Residents": "38.56",
+        "Payment_Per_Resident": "$225,794.32"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "OHSU HOSPITAL AND CLINICS",
+        "State": "OR",
+        "Total_CMS_Payments": "$48,940,340.00",
+        "Total_Residents": "537.5",
+        "Payment_Per_Resident": "$91,051.80"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PROVIDENCE PORTLAND MEDICAL CENTER",
+        "State": "OR",
+        "Total_CMS_Payments": "$5,869,088.00",
+        "Total_Residents": "33.64",
+        "Payment_Per_Resident": "$174,467.54"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PROVIDENCE ST. VINCENT MEDICAL CTR",
+        "State": "OR",
+        "Total_CMS_Payments": "$9,189,334.00",
+        "Total_Residents": "44.22",
+        "Payment_Per_Resident": "$207,809.45"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ABINGTON MEMORIAL HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$28,776,300.00",
+        "Total_Residents": "157.78",
+        "Payment_Per_Resident": "$182,382.43"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ALBERT EINSTEIN MEDICAL CENTER",
+        "State": "PA",
+        "Total_CMS_Payments": "$60,628,896.00",
+        "Total_Residents": "307.04",
+        "Payment_Per_Resident": "$197,462.53"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ALLEGHENY GENERAL HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$66,520,624.00",
+        "Total_Residents": "272.04",
+        "Payment_Per_Resident": "$244,525.16"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ALTOONA REGIONAL HEALTH SYSTEM",
+        "State": "PA",
+        "Total_CMS_Payments": "$5,134,477.00",
+        "Total_Residents": "28.69",
+        "Payment_Per_Resident": "$178,963.99"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AMERICAN ONCOLOGIC HOSPIAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$1,742,143.00",
+        "Total_Residents": "22.66",
+        "Payment_Per_Resident": "$76,881.86"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ARIA HEALTH",
+        "State": "PA",
+        "Total_CMS_Payments": "$21,200,086.00",
+        "Total_Residents": "100.13",
+        "Payment_Per_Resident": "$211,725.62"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BRYN MAWR HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$9,057,230.00",
+        "Total_Residents": "34.61",
+        "Payment_Per_Resident": "$261,694.02"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CHESTNUT HILL HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$13,377,523.00",
+        "Total_Residents": "51.36",
+        "Payment_Per_Resident": "$260,465.79"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "COMMUNITY MEDICAL CENTER",
+        "State": "PA",
+        "Total_CMS_Payments": "$8,997,669.00",
+        "Total_Residents": "41.65",
+        "Payment_Per_Resident": "$216,030.47"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CROZER CHESTER MEDICAL CENTER",
+        "State": "PA",
+        "Total_CMS_Payments": "$17,692,850.00",
+        "Total_Residents": "98.3",
+        "Payment_Per_Resident": "$179,988.30"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DELAWARE COUNTY MEMORIAL HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$1,746,746.00",
+        "Total_Residents": "11.32",
+        "Payment_Per_Resident": "$154,306.18"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DUBOIS REGIONAL MEDICAL CENTER",
+        "State": "PA",
+        "Total_CMS_Payments": "$3,200,334.00",
+        "Total_Residents": "19.94",
+        "Payment_Per_Resident": "$160,498.19"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "FORBES REGIONAL HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$10,068,662.00",
+        "Total_Residents": "46.79",
+        "Payment_Per_Resident": "$215,188.33"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GEISINGER BLOOMSBURG HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$1,814,454.00",
+        "Total_Residents": "10.08",
+        "Payment_Per_Resident": "$180,005.36"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GEISINGER MEDICAL CENTER",
+        "State": "PA",
+        "Total_CMS_Payments": "$70,354,072.00",
+        "Total_Residents": "326.34",
+        "Payment_Per_Resident": "$215,585.19"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GEISINGER WYOMING VALLEY MED CTR",
+        "State": "PA",
+        "Total_CMS_Payments": "$15,746,855.00",
+        "Total_Residents": "63.48",
+        "Payment_Per_Resident": "$248,060.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HOSPITAL OF THE UNIV OF PENNA",
+        "State": "PA",
+        "Total_CMS_Payments": "$131,850,168.00",
+        "Total_Residents": "650.06",
+        "Payment_Per_Resident": "$202,827.69"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LANCASTER GENERAL HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$9,093,125.00",
+        "Total_Residents": "45.75",
+        "Payment_Per_Resident": "$198,756.83"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LANKENAU MEDICAL CENTER",
+        "State": "PA",
+        "Total_CMS_Payments": "$29,170,468.00",
+        "Total_Residents": "126.8",
+        "Payment_Per_Resident": "$230,051.01"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LEHIGH VALLEY",
+        "State": "PA",
+        "Total_CMS_Payments": "$50,075,704.00",
+        "Total_Residents": "268.54",
+        "Payment_Per_Resident": "$186,473.91"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$530,457.00",
+        "Total_Residents": "2.42",
+        "Payment_Per_Resident": "$219,197.11"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL MEDICAL CENTER",
+        "State": "PA",
+        "Total_CMS_Payments": "$14,818,349.00",
+        "Total_Residents": "80.3",
+        "Payment_Per_Resident": "$184,537.35"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERCY CATHOLIC MEDICAL CENTER",
+        "State": "PA",
+        "Total_CMS_Payments": "$15,191,169.00",
+        "Total_Residents": "89.78",
+        "Payment_Per_Resident": "$169,204.38"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MILLCREEK COMMUNITY HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$1,473,626.00",
+        "Total_Residents": "52.88",
+        "Payment_Per_Resident": "$27,867.36"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MILTON S. HERSHEY MEDICAL CENTER",
+        "State": "PA",
+        "Total_CMS_Payments": "$61,899,828.00",
+        "Total_Residents": "494.18",
+        "Payment_Per_Resident": "$125,257.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PENNSYLVANIA HOSPITAL OF UPHS",
+        "State": "PA",
+        "Total_CMS_Payments": "$15,747,257.00",
+        "Total_Residents": "138.8",
+        "Payment_Per_Resident": "$113,452.86"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PRESBYTERIAN MEDICAL CENTER",
+        "State": "PA",
+        "Total_CMS_Payments": "$39,412,592.00",
+        "Total_Residents": "149.61",
+        "Payment_Per_Resident": "$263,435.55"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "READING HOSPITAL AND MEDICAL CENTER",
+        "State": "PA",
+        "Total_CMS_Payments": "$28,016,570.00",
+        "Total_Residents": "160.28",
+        "Payment_Per_Resident": "$174,797.67"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "REGIONAL HOSPITAL OF SCRANTON",
+        "State": "PA",
+        "Total_CMS_Payments": "$4,448,079.00",
+        "Total_Residents": "17.27",
+        "Payment_Per_Resident": "$257,561.03"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ROBERT PACKER HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$15,615,849.00",
+        "Total_Residents": "78.75",
+        "Payment_Per_Resident": "$198,296.50"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ROXBOROUGH MEMORIAL HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$3,438,182.00",
+        "Total_Residents": "21.67",
+        "Payment_Per_Resident": "$158,660.91"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT VINCENT HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$7,328,698.00",
+        "Total_Residents": "41.47",
+        "Payment_Per_Resident": "$176,722.88"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST LUKE HOSPITAL ANDERSON CAMPUS",
+        "State": "PA",
+        "Total_CMS_Payments": "$19,627,092.00",
+        "Total_Residents": "15.98",
+        "Payment_Per_Resident": "$1,228,228.54"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. LUKES HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$47,590,172.00",
+        "Total_Residents": "191.71",
+        "Payment_Per_Resident": "$248,240.43"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SUBURBAN COMMUNITY HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$3,320,949.00",
+        "Total_Residents": "27.76",
+        "Payment_Per_Resident": "$119,630.73"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TEMPLE UNIVERSITY HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$78,497,552.00",
+        "Total_Residents": "443.06",
+        "Payment_Per_Resident": "$177,171.38"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE CHAMBERSBURG HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$213,526.00",
+        "Total_Residents": "1.95",
+        "Payment_Per_Resident": "$109,500.51"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THOMAS JEFFERSON UNIV. HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$121,599,200.00",
+        "Total_Residents": "615.96",
+        "Payment_Per_Resident": "$197,414.12"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC - PRESBYTERIAN SHADYSIDE",
+        "State": "PA",
+        "Total_CMS_Payments": "$150,687,424.00",
+        "Total_Residents": "691.86",
+        "Payment_Per_Resident": "$217,800.46"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC EAST HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$2,167,820.00",
+        "Total_Residents": "10.97",
+        "Payment_Per_Resident": "$197,613.49"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC HAMOT",
+        "State": "PA",
+        "Total_CMS_Payments": "$12,258,456.00",
+        "Total_Residents": "49.83",
+        "Payment_Per_Resident": "$246,005.54"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC HORIZON HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$369,620.00",
+        "Total_Residents": "10.69",
+        "Payment_Per_Resident": "$34,576.24"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC JAMESON",
+        "State": "PA",
+        "Total_CMS_Payments": "$1,376,146.00",
+        "Total_Residents": "5.67",
+        "Payment_Per_Resident": "$242,706.53"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC LITITZ",
+        "State": "PA",
+        "Total_CMS_Payments": "$2,264,544.00",
+        "Total_Residents": "27.2",
+        "Payment_Per_Resident": "$83,255.29"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC MAGEE-WOMENS HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$4,751,406.00",
+        "Total_Residents": "91.17",
+        "Payment_Per_Resident": "$52,115.89"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC MCKEESPORT",
+        "State": "PA",
+        "Total_CMS_Payments": "$5,937,316.00",
+        "Total_Residents": "46.64",
+        "Payment_Per_Resident": "$127,300.94"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC MERCY HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$30,747,758.00",
+        "Total_Residents": "139.49",
+        "Payment_Per_Resident": "$220,429.84"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC NORTHWEST HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$93,761.00",
+        "Total_Residents": "0.74",
+        "Payment_Per_Resident": "$126,704.05"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC PASSAVANT",
+        "State": "PA",
+        "Total_CMS_Payments": "$3,147,770.00",
+        "Total_Residents": "19.96",
+        "Payment_Per_Resident": "$157,703.91"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC PINNACLE HOSPITALS",
+        "State": "PA",
+        "Total_CMS_Payments": "$37,976,088.00",
+        "Total_Residents": "134.99",
+        "Payment_Per_Resident": "$281,325.19"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UPMC ST MARGARET",
+        "State": "PA",
+        "Total_CMS_Payments": "$14,323,263.00",
+        "Total_Residents": "54.64",
+        "Payment_Per_Resident": "$262,138.78"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WESTERN PENNSYLVANIA HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$7,724,039.00",
+        "Total_Residents": "71.55",
+        "Payment_Per_Resident": "$107,953.03"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WILKES-BARRE GENERAL HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$4,793,210.00",
+        "Total_Residents": "21.58",
+        "Payment_Per_Resident": "$222,113.53"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "YORK HOSPITAL",
+        "State": "PA",
+        "Total_CMS_Payments": "$33,191,936.00",
+        "Total_Residents": "147.21",
+        "Payment_Per_Resident": "$225,473.38"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CORPORACION DEL CENTRO CARDIOVASCULA",
+        "State": "PR",
+        "Total_CMS_Payments": "$414,141.00",
+        "Total_Residents": "10.93",
+        "Payment_Per_Resident": "$37,890.30"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HOSPITAL DAMAS",
+        "State": "PR",
+        "Total_CMS_Payments": "$2,563,024.00",
+        "Total_Residents": "25.74",
+        "Payment_Per_Resident": "$99,573.58"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HOSPITAL UPR",
+        "State": "PR",
+        "Total_CMS_Payments": "$3,710,644.00",
+        "Total_Residents": "61.91",
+        "Payment_Per_Resident": "$59,936.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAN JUAN MUNICIPAL HOSPITAL",
+        "State": "PR",
+        "Total_CMS_Payments": "$932,559.00",
+        "Total_Residents": "70.63",
+        "Payment_Per_Resident": "$13,203.44"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAN LUCAS PONCE",
+        "State": "PR",
+        "Total_CMS_Payments": "$5,928,878.00",
+        "Total_Residents": "107.37",
+        "Payment_Per_Resident": "$55,219.13"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY DISCTRICT HOSPITAL",
+        "State": "PR",
+        "Total_CMS_Payments": "$4,477,897.00",
+        "Total_Residents": "71.96",
+        "Payment_Per_Resident": "$62,227.58"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BUTLER HOSPITAL",
+        "State": "RI",
+        "Total_CMS_Payments": "$607,391.00",
+        "Total_Residents": "15.03",
+        "Payment_Per_Resident": "$40,411.91"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "KENT COUNTY MEMORIAL HOSPITAL",
+        "State": "RI",
+        "Total_CMS_Payments": "$16,208,286.00",
+        "Total_Residents": "94.54",
+        "Payment_Per_Resident": "$171,443.69"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RHODE ISLAND HOSPITAL",
+        "State": "RI",
+        "Total_CMS_Payments": "$64,631,608.00",
+        "Total_Residents": "432.94",
+        "Payment_Per_Resident": "$149,285.37"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ROGER WILLIAMS MEDICAL CENTER",
+        "State": "RI",
+        "Total_CMS_Payments": "$9,938,606.00",
+        "Total_Residents": "53.46",
+        "Payment_Per_Resident": "$185,907.33"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE MIRIAM HOSPITAL",
+        "State": "RI",
+        "Total_CMS_Payments": "$20,796,096.00",
+        "Total_Residents": "79.16",
+        "Payment_Per_Resident": "$262,709.65"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WOMEN &amp; INFANTS HOSPITAL",
+        "State": "RI",
+        "Total_CMS_Payments": "$82,771.00",
+        "Total_Residents": "65.73",
+        "Payment_Per_Resident": "$1,259.26"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GHS GREENVILLE MEMORIAL HOSPITAL",
+        "State": "SC",
+        "Total_CMS_Payments": "$20,330,044.00",
+        "Total_Residents": "219.2",
+        "Payment_Per_Resident": "$92,746.55"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GRAND STRAND REGIONAL MEDICAL CENTER",
+        "State": "SC",
+        "Total_CMS_Payments": "$32,184,592.00",
+        "Total_Residents": "139.73",
+        "Payment_Per_Resident": "$230,334.16"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEDICAL UNIVERSITY OF SOUTH CAROLINA",
+        "State": "SC",
+        "Total_CMS_Payments": "$63,555,280.00",
+        "Total_Residents": "594.35",
+        "Payment_Per_Resident": "$106,932.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PH BAPTIST PARKRIDGE HOSPITAL",
+        "State": "SC",
+        "Total_CMS_Payments": "$94,686.00",
+        "Total_Residents": "0.57",
+        "Payment_Per_Resident": "$166,115.79"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PH HILLCREST HOSPITAL",
+        "State": "SC",
+        "Total_CMS_Payments": "$199,326.00",
+        "Total_Residents": "1.92",
+        "Payment_Per_Resident": "$103,815.63"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PH PATEWOOD HOSPITAL",
+        "State": "SC",
+        "Total_CMS_Payments": "$161,398.00",
+        "Total_Residents": "17.28",
+        "Payment_Per_Resident": "$9,340.16"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PRISMA HEALTH RICHLAND HOSPITAL",
+        "State": "SC",
+        "Total_CMS_Payments": "$23,320,192.00",
+        "Total_Residents": "223.94",
+        "Payment_Per_Resident": "$104,135.89"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SELF REGIONAL HEALTHCARE",
+        "State": "SC",
+        "Total_CMS_Payments": "$3,926,574.00",
+        "Total_Residents": "29.87",
+        "Payment_Per_Resident": "$131,455.44"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SPARTANBURG REGIONAL MEDICAL CENTER",
+        "State": "SC",
+        "Total_CMS_Payments": "$11,811,137.00",
+        "Total_Residents": "59.03",
+        "Payment_Per_Resident": "$200,087.02"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AVERA MCKENNAN",
+        "State": "SD",
+        "Total_CMS_Payments": "$3,871,189.00",
+        "Total_Residents": "49.44",
+        "Payment_Per_Resident": "$78,300.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SANFORD USD MEDICAL CENTER",
+        "State": "SD",
+        "Total_CMS_Payments": "$7,974,079.00",
+        "Total_Residents": "66.45",
+        "Payment_Per_Resident": "$120,001.19"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BAPTIST MEM HOSPITAL MEMPHIS",
+        "State": "TN",
+        "Total_CMS_Payments": "$10,256,081.00",
+        "Total_Residents": "80.09",
+        "Payment_Per_Resident": "$128,056.95"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BRISTOL REGIONAL MEDICAL CENTER",
+        "State": "TN",
+        "Total_CMS_Payments": "$7,824,910.00",
+        "Total_Residents": "38.16",
+        "Payment_Per_Resident": "$205,055.29"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ERLANGER MEDICAL CENTER",
+        "State": "TN",
+        "Total_CMS_Payments": "$17,683,390.00",
+        "Total_Residents": "173.12",
+        "Payment_Per_Resident": "$102,145.27"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HOLSTON VALLEY HOSP &amp; MED CTR",
+        "State": "TN",
+        "Total_CMS_Payments": "$9,574,924.00",
+        "Total_Residents": "33.49",
+        "Payment_Per_Resident": "$285,903.97"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "JOHNSON CITY MEDICAL CENTER",
+        "State": "TN",
+        "Total_CMS_Payments": "$13,312,874.00",
+        "Total_Residents": "102.72",
+        "Payment_Per_Resident": "$129,603.52"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL HEALTH CARE SYSTEM INC.",
+        "State": "TN",
+        "Total_CMS_Payments": "$441,865.00",
+        "Total_Residents": "1.78",
+        "Payment_Per_Resident": "$248,238.76"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "METHODIST H/C MEMPHIS HOSPT.",
+        "State": "TN",
+        "Total_CMS_Payments": "$24,092,326.00",
+        "Total_Residents": "261.88",
+        "Payment_Per_Resident": "$91,997.58"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "METRO NASHVILLE GENERAL HOSPITAL",
+        "State": "TN",
+        "Total_CMS_Payments": "$1,683,916.00",
+        "Total_Residents": "41.58",
+        "Payment_Per_Resident": "$40,498.22"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "REGIONAL ONE HEALTH",
+        "State": "TN",
+        "Total_CMS_Payments": "$9,935,403.00",
+        "Total_Residents": "149.22",
+        "Payment_Per_Resident": "$66,582.25"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT THOMAS RUTHERFORD HOSPITAL",
+        "State": "TN",
+        "Total_CMS_Payments": "$9,324,892.00",
+        "Total_Residents": "44.45",
+        "Payment_Per_Resident": "$209,783.85"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAINT THOMAS WEST HOSPITAL",
+        "State": "TN",
+        "Total_CMS_Payments": "$10,697,891.00",
+        "Total_Residents": "49.15",
+        "Payment_Per_Resident": "$217,658.01"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. FRANCIS HOSPITAL",
+        "State": "TN",
+        "Total_CMS_Payments": "$1,980,791.00",
+        "Total_Residents": "19.49",
+        "Payment_Per_Resident": "$101,631.14"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF TENNESSEE MEDICAL CENT",
+        "State": "TN",
+        "Total_CMS_Payments": "$38,157,632.00",
+        "Total_Residents": "189.44",
+        "Payment_Per_Resident": "$201,423.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "VANDERBILT UNIVERSITY MEDICAL CENTER",
+        "State": "TN",
+        "Total_CMS_Payments": "$67,057,072.00",
+        "Total_Residents": "671.54",
+        "Payment_Per_Resident": "$99,855.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BAPTIST HEALTH SYSTEM",
+        "State": "TX",
+        "Total_CMS_Payments": "$187,750.00",
+        "Total_Residents": "16.92",
+        "Payment_Per_Resident": "$11,096.34"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "BAYLOR UNIVERSITY MEDICAL CTR",
+        "State": "TX",
+        "Total_CMS_Payments": "$23,334,520.00",
+        "Total_Residents": "174.29",
+        "Payment_Per_Resident": "$133,883.30"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CHI ST LUKES HEALTH BAYLOR MED CTR",
+        "State": "TX",
+        "Total_CMS_Payments": "$20,290,812.00",
+        "Total_Residents": "170.96",
+        "Payment_Per_Resident": "$118,687.48"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CHRISTUS MOTHER FRANCES HOSP-TYLER",
+        "State": "TX",
+        "Total_CMS_Payments": "$676,656.00",
+        "Total_Residents": "4.79",
+        "Payment_Per_Resident": "$141,264.30"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CHRISTUS SPOHN HOSP CORPUS CHRISTI",
+        "State": "TX",
+        "Total_CMS_Payments": "$5,534,027.00",
+        "Total_Residents": "67.71",
+        "Payment_Per_Resident": "$81,731.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CORPUS CHRISTI MEDICAL CENTER",
+        "State": "TX",
+        "Total_CMS_Payments": "$4,876,234.00",
+        "Total_Residents": "32.49",
+        "Payment_Per_Resident": "$150,084.15"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "COVENANT MEDICAL CENTER",
+        "State": "TX",
+        "Total_CMS_Payments": "$1,184,618.00",
+        "Total_Residents": "18.81",
+        "Payment_Per_Resident": "$62,978.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DALLAS CO. HOSP. DIST.",
+        "State": "TX",
+        "Total_CMS_Payments": "$22,415,756.00",
+        "Total_Residents": "566.96",
+        "Payment_Per_Resident": "$39,536.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DELL SETON MEDICAL CENTER AT THE UNI",
+        "State": "TX",
+        "Total_CMS_Payments": "$9,377,872.00",
+        "Total_Residents": "155.83",
+        "Payment_Per_Resident": "$60,180.15"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DOCTORS HOSPITAL AT RENAISSANCE",
+        "State": "TX",
+        "Total_CMS_Payments": "$14,140,308.00",
+        "Total_Residents": "121.38",
+        "Payment_Per_Resident": "$116,496.19"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HARRIS HEALTH SYSTEM",
+        "State": "TX",
+        "Total_CMS_Payments": "$18,199,252.00",
+        "Total_Residents": "607.85",
+        "Payment_Per_Resident": "$29,940.37"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HOUSTON HEALTHCARE MEDICAL CENTER",
+        "State": "TX",
+        "Total_CMS_Payments": "$12,605.00",
+        "Total_Residents": "0.38",
+        "Payment_Per_Resident": "$33,171.05"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEDICAL CENTER HEALTH SYSTEM",
+        "State": "TX",
+        "Total_CMS_Payments": "$4,484,948.00",
+        "Total_Residents": "88.49",
+        "Payment_Per_Resident": "$50,683.11"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEDICAL CITY ARLINGTON",
+        "State": "TX",
+        "Total_CMS_Payments": "$8,169,010.00",
+        "Total_Residents": "50.08",
+        "Payment_Per_Resident": "$163,119.21"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEDICAL CITY DALLAS",
+        "State": "TX",
+        "Total_CMS_Payments": "$90,386.00",
+        "Total_Residents": "2.22",
+        "Payment_Per_Resident": "$40,714.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEDICAL CITY FORT WORTH",
+        "State": "TX",
+        "Total_CMS_Payments": "$15,088,673.00",
+        "Total_Residents": "55.66",
+        "Payment_Per_Resident": "$271,086.47"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL HERMANN HOSPITAL SYS",
+        "State": "TX",
+        "Total_CMS_Payments": "$8,825,239.00",
+        "Total_Residents": "59.27",
+        "Payment_Per_Resident": "$148,898.92"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MEMORIAL HERMANN TEXAS MEDICAL CNTR",
+        "State": "TX",
+        "Total_CMS_Payments": "$55,455,520.00",
+        "Total_Residents": "528.85",
+        "Payment_Per_Resident": "$104,860.58"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "METHODIST DALLAS MEDICAL CENTER",
+        "State": "TX",
+        "Total_CMS_Payments": "$6,323,837.00",
+        "Total_Residents": "54.51",
+        "Payment_Per_Resident": "$116,012.42"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "METHODIST HOSPITAL",
+        "State": "TX",
+        "Total_CMS_Payments": "$2,090,759.00",
+        "Total_Residents": "57.48",
+        "Payment_Per_Resident": "$36,373.68"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MIDLAND MEMORIAL HOSPITAL",
+        "State": "TX",
+        "Total_CMS_Payments": "$825,257.00",
+        "Total_Residents": "7.62",
+        "Payment_Per_Resident": "$108,301.44"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SAN JACINTO METHODIST HOSPITAL",
+        "State": "TX",
+        "Total_CMS_Payments": "$1,692,563.00",
+        "Total_Residents": "8.09",
+        "Payment_Per_Resident": "$209,216.69"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SANTA ROSA HEALTHCARE",
+        "State": "TX",
+        "Total_CMS_Payments": "$6,812,979.00",
+        "Total_Residents": "31.59",
+        "Payment_Per_Resident": "$215,668.85"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SCOTT AND WHITE MEMORIAL HOSPITAL",
+        "State": "TX",
+        "Total_CMS_Payments": "$35,109,980.00",
+        "Total_Residents": "345.71",
+        "Payment_Per_Resident": "$101,559.05"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST JOSEPH MEDICAL CENTER",
+        "State": "TX",
+        "Total_CMS_Payments": "$4,980,255.00",
+        "Total_Residents": "27.2",
+        "Payment_Per_Resident": "$183,097.61"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TCHD D/B/A JPS HEALTH NETWORK",
+        "State": "TX",
+        "Total_CMS_Payments": "$12,119,028.00",
+        "Total_Residents": "199.1",
+        "Payment_Per_Resident": "$60,869.05"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TEXAS HEALTH DALLAS",
+        "State": "TX",
+        "Total_CMS_Payments": "$5,207,887.00",
+        "Total_Residents": "32.08",
+        "Payment_Per_Resident": "$162,340.62"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE HOSPITALS OF PROVIDENCE-MEMORIAL",
+        "State": "TX",
+        "Total_CMS_Payments": "$162,981.00",
+        "Total_Residents": "4.11",
+        "Payment_Per_Resident": "$39,654.74"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE METHODIST HOSPITAL",
+        "State": "TX",
+        "Total_CMS_Payments": "$45,228,728.00",
+        "Total_Residents": "238.98",
+        "Payment_Per_Resident": "$189,257.38"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "THE UNIVERSITY OF TEXAS MEDICAL BR.",
+        "State": "TX",
+        "Total_CMS_Payments": "$52,427,708.00",
+        "Total_Residents": "501.41",
+        "Payment_Per_Resident": "$104,560.56"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "TX HLTH HARRIS METHODIST HOSPITAL",
+        "State": "TX",
+        "Total_CMS_Payments": "$738,002.00",
+        "Total_Residents": "1.49",
+        "Payment_Per_Resident": "$495,303.36"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY HEALTH SYSTEM",
+        "State": "TX",
+        "Total_CMS_Payments": "$37,255,408.00",
+        "Total_Residents": "470.28",
+        "Payment_Per_Resident": "$79,219.63"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY MEDICAL CENTER",
+        "State": "TX",
+        "Total_CMS_Payments": "$16,509,243.00",
+        "Total_Residents": "214.47",
+        "Payment_Per_Resident": "$76,976.93"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY MEDICAL CENTER OF EL PASO",
+        "State": "TX",
+        "Total_CMS_Payments": "$15,947,626.00",
+        "Total_Residents": "148.7",
+        "Payment_Per_Resident": "$107,246.98"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UT HEALTH CENTER AT TYLER",
+        "State": "TX",
+        "Total_CMS_Payments": "$1,737,379.00",
+        "Total_Residents": "27.62",
+        "Payment_Per_Resident": "$62,902.93"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UT HEALTH EAST TEXAS TYLER",
+        "State": "TX",
+        "Total_CMS_Payments": "$6,710,924.00",
+        "Total_Residents": "6.95",
+        "Payment_Per_Resident": "$965,600.58"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UT MD ANDERSON CANCER CENTER",
+        "State": "TX",
+        "Total_CMS_Payments": "$6,144,582.00",
+        "Total_Residents": "153.6",
+        "Payment_Per_Resident": "$40,003.79"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UT SOUTHWESTERN UNIVERSITY HOSP",
+        "State": "TX",
+        "Total_CMS_Payments": "$17,330,412.00",
+        "Total_Residents": "244.72",
+        "Payment_Per_Resident": "$70,817.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "INTERMOUNTAIN MEDICAL CENTER",
+        "State": "UT",
+        "Total_CMS_Payments": "$12,014,101.00",
+        "Total_Residents": "64.76",
+        "Payment_Per_Resident": "$185,517.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST MARKS HOSPITAL",
+        "State": "UT",
+        "Total_CMS_Payments": "$2,277,010.00",
+        "Total_Residents": "10.58",
+        "Payment_Per_Resident": "$215,218.34"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "U OF U HOSPITALS &amp; CLINICS",
+        "State": "UT",
+        "Total_CMS_Payments": "$42,902,956.00",
+        "Total_Residents": "395.04",
+        "Payment_Per_Resident": "$108,604.08"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CARILION MEDICAL CENTER",
+        "State": "VA",
+        "Total_CMS_Payments": "$21,900,000.00",
+        "Total_Residents": "221.27",
+        "Payment_Per_Resident": "$98,974.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CJW MEDICAL CENTER",
+        "State": "VA",
+        "Total_CMS_Payments": "$240,396.00",
+        "Total_Residents": "2.39",
+        "Payment_Per_Resident": "$100,584.10"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "INOVA FAIRFAX HOSPITAL",
+        "State": "VA",
+        "Total_CMS_Payments": "$25,162,492.00",
+        "Total_Residents": "176.18",
+        "Payment_Per_Resident": "$142,822.64"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "LEWISGALE HOSPITAL - MONTGOMERY",
+        "State": "VA",
+        "Total_CMS_Payments": "$8,957,398.00",
+        "Total_Residents": "41.26",
+        "Payment_Per_Resident": "$217,096.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MARYVIEW HOSPITAL",
+        "State": "VA",
+        "Total_CMS_Payments": "$4,336,323.00",
+        "Total_Residents": "33.73",
+        "Payment_Per_Resident": "$128,559.83"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "RIVERSIDE REGIONAL MEDICAL CENTER",
+        "State": "VA",
+        "Total_CMS_Payments": "$10,214,077.00",
+        "Total_Residents": "61.1",
+        "Payment_Per_Resident": "$167,169.84"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SENTARA LEIGH HOSPITAL",
+        "State": "VA",
+        "Total_CMS_Payments": "$2,380,337.00",
+        "Total_Residents": "13.35",
+        "Payment_Per_Resident": "$178,302.40"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SENTARA NORFOLK GENERAL HOSPITAL",
+        "State": "VA",
+        "Total_CMS_Payments": "$24,682,852.00",
+        "Total_Residents": "168.2",
+        "Payment_Per_Resident": "$146,747.04"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. FRANCIS MEDICAL CENTER",
+        "State": "VA",
+        "Total_CMS_Payments": "$4,973,137.00",
+        "Total_Residents": "26.58",
+        "Payment_Per_Resident": "$187,100.71"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. MARYS HOSPITAL",
+        "State": "VA",
+        "Total_CMS_Payments": "$2,502,744.00",
+        "Total_Residents": "4.19",
+        "Payment_Per_Resident": "$597,313.60"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF VIRGINIA MEDICAL CENTE",
+        "State": "VA",
+        "Total_CMS_Payments": "$90,218,464.00",
+        "Total_Residents": "600.13",
+        "Payment_Per_Resident": "$150,331.53"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "VCU HEALTH SYSTEM MCV HOSPITAL",
+        "State": "VA",
+        "Total_CMS_Payments": "$54,823,816.00",
+        "Total_Residents": "497.46",
+        "Payment_Per_Resident": "$110,207.49"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "VIRGINIA HOSPITAL CENTER ARLINGTON",
+        "State": "VA",
+        "Total_CMS_Payments": "$4,919,589.00",
+        "Total_Residents": "28.96",
+        "Payment_Per_Resident": "$169,875.31"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WINCHESTER MEDICAL CENTER",
+        "State": "VA",
+        "Total_CMS_Payments": "$1,609,916.00",
+        "Total_Residents": "8.75",
+        "Payment_Per_Resident": "$183,990.40"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF VERMONT MEDICAL CENTER",
+        "State": "VT",
+        "Total_CMS_Payments": "$38,350,192.00",
+        "Total_Residents": "284.57",
+        "Payment_Per_Resident": "$134,765.41"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "DEACONESS MEDICAL CENTER",
+        "State": "WA",
+        "Total_CMS_Payments": "$1,558,918.00",
+        "Total_Residents": "7.27",
+        "Payment_Per_Resident": "$214,431.64"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "HARBORVIEW MEDICAL CENTER",
+        "State": "WA",
+        "Total_CMS_Payments": "$29,322,480.00",
+        "Total_Residents": "316",
+        "Payment_Per_Resident": "$92,792.66"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PEACEHEALTH SOUTHWEST MEDICAL CENTER",
+        "State": "WA",
+        "Total_CMS_Payments": "$4,437,345.00",
+        "Total_Residents": "20.47",
+        "Payment_Per_Resident": "$216,773.08"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PHD#1 DBA SKAGIT VALLEY HOSPITAL",
+        "State": "WA",
+        "Total_CMS_Payments": "$6,387,770.00",
+        "Total_Residents": "31.5",
+        "Payment_Per_Resident": "$202,786.35"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "PROV SACRED HEART MEDICAL CENTER",
+        "State": "WA",
+        "Total_CMS_Payments": "$11,535,441.00",
+        "Total_Residents": "87.4",
+        "Payment_Per_Resident": "$131,984.45"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SWEDISH MEDICAL CENTER",
+        "State": "WA",
+        "Total_CMS_Payments": "$10,075,405.00",
+        "Total_Residents": "67.27",
+        "Payment_Per_Resident": "$149,775.61"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "SWEDISH MEDICAL CENTER CHERRY HILL",
+        "State": "WA",
+        "Total_CMS_Payments": "$14,165,401.00",
+        "Total_Residents": "43.01",
+        "Payment_Per_Resident": "$329,351.34"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF WASHINGTON MED CTR",
+        "State": "WA",
+        "Total_CMS_Payments": "$50,124,080.00",
+        "Total_Residents": "390.61",
+        "Payment_Per_Resident": "$128,322.57"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "VALLEY MEDICAL CENTER",
+        "State": "WA",
+        "Total_CMS_Payments": "$4,171,448.00",
+        "Total_Residents": "27.75",
+        "Payment_Per_Resident": "$150,322.45"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "VIRGINIA MASON MEDICAL CENTER",
+        "State": "WA",
+        "Total_CMS_Payments": "$23,313,596.00",
+        "Total_Residents": "116.62",
+        "Payment_Per_Resident": "$199,910.79"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ASCENSION COLUMBIA ST MARYS MILWAUKE",
+        "State": "WI",
+        "Total_CMS_Payments": "$8,557,298.00",
+        "Total_Residents": "42.74",
+        "Payment_Per_Resident": "$200,217.55"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ASCENSION SE WISCONSIN HOSPITAL INC",
+        "State": "WI",
+        "Total_CMS_Payments": "$5,882,566.00",
+        "Total_Residents": "34.71",
+        "Payment_Per_Resident": "$169,477.56"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AURORA HEALTH CARE METRO INC.",
+        "State": "WI",
+        "Total_CMS_Payments": "$33,930,600.00",
+        "Total_Residents": "127.53",
+        "Payment_Per_Resident": "$266,059.75"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AURORA MEDICAL CENTER GRAFTON",
+        "State": "WI",
+        "Total_CMS_Payments": "$206,546.00",
+        "Total_Residents": "0.99",
+        "Payment_Per_Resident": "$208,632.32"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "AURORA PSYCHIATRIC HOSPITAL",
+        "State": "WI",
+        "Total_CMS_Payments": "$8,701.00",
+        "Total_Residents": "3.12",
+        "Payment_Per_Resident": "$2,788.78"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "FROEDTERT MEM. LUTHERAN HOSPT.",
+        "State": "WI",
+        "Total_CMS_Payments": "$69,405,936.00",
+        "Total_Residents": "333.73",
+        "Payment_Per_Resident": "$207,970.32"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GUNDERSEN LUTHERAN MEDICAL CENTER I",
+        "State": "WI",
+        "Total_CMS_Payments": "$10,378,858.00",
+        "Total_Residents": "66.75",
+        "Payment_Per_Resident": "$155,488.51"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MARSHFIELD MEDICAL CENTER",
+        "State": "WI",
+        "Total_CMS_Payments": "$15,462,074.00",
+        "Total_Residents": "70.76",
+        "Payment_Per_Resident": "$218,514.33"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MARSHFIELD MEDICAL CENTER",
+        "State": "WI",
+        "Total_CMS_Payments": "$5,359,651.00",
+        "Total_Residents": "75",
+        "Payment_Per_Resident": "$71,462.01"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "MERITER HOSPITAL INC.",
+        "State": "WI",
+        "Total_CMS_Payments": "$3,536,219.00",
+        "Total_Residents": "50.25",
+        "Payment_Per_Resident": "$70,372.52"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. MARYS HOSPITAL",
+        "State": "WI",
+        "Total_CMS_Payments": "$8,155,314.00",
+        "Total_Residents": "44.76",
+        "Payment_Per_Resident": "$182,200.94"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNIVERSITY OF WI HOSPITALS &amp; CLINICS",
+        "State": "WI",
+        "Total_CMS_Payments": "$65,247,456.00",
+        "Total_Residents": "460.85",
+        "Payment_Per_Resident": "$141,580.68"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WEST ALLIS MEMORIAL HOSPITAL",
+        "State": "WI",
+        "Total_CMS_Payments": "$116,914.00",
+        "Total_Residents": "1.46",
+        "Payment_Per_Resident": "$80,078.08"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CABELL HUNTINGTON HOSPITAL",
+        "State": "WV",
+        "Total_CMS_Payments": "$8,816,280.00",
+        "Total_Residents": "129.06",
+        "Payment_Per_Resident": "$68,311.48"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "CHARLESTON AREA MEDICAL CENTER INC.",
+        "State": "WV",
+        "Total_CMS_Payments": "$22,758,672.00",
+        "Total_Residents": "146.81",
+        "Payment_Per_Resident": "$155,021.27"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "GREENBRIER VALLEY MEDICAL CENTER",
+        "State": "WV",
+        "Total_CMS_Payments": "$1,986,119.00",
+        "Total_Residents": "18.11",
+        "Payment_Per_Resident": "$109,669.74"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "ST. MARYS MEDICAL CENTER INC.",
+        "State": "WV",
+        "Total_CMS_Payments": "$5,406,207.00",
+        "Total_Residents": "35.77",
+        "Payment_Per_Resident": "$151,138.02"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "UNITED HOSPITAL CENTER",
+        "State": "WV",
+        "Total_CMS_Payments": "$4,987,278.00",
+        "Total_Residents": "23.62",
+        "Payment_Per_Resident": "$211,146.40"
+    },
+    {
+        "Year": "2021",
+        "Hospital_Name": "WEST VIRGINIA UNIVERSITY HOSPITALS",
+        "State": "WV",
+        "Total_CMS_Payments": "$46,877,736.00",
+        "Total_Residents": "430.02",
+        "Payment_Per_Resident": "$109,012.92"
+    }
+]
