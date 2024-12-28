@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ResiFund - Residency Funding Search Tool</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7f9;
+            color: #333;
+        }
+        header {
+            display: flex;
+            align-items: center;
+            padding: 10px 20px;
+            background-color: #fff;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 1.5em;
+            color: #1e3c72;
+            font-family: 'Arial', sans-serif;
+        }
+        main {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        input, button {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 25px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+        }
+        input {
+            width: 300px;
+        }
+        button {
+            background-color: #2a5298;
+            color: white;
+            cursor: pointer;
+            border: none;
+            transition: background-color 0.3s ease;
+        }
+        button:hover {
+            background-color: #5a9bd4;
+        }
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+            width: 100%;
+            background-color: white;
+            border-radius: 5px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            table-layout: fixed;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+            word-wrap: break-word;
+        }
+        th {
+            background-color: #2a5298;
+            color: white;
+            cursor: pointer;
+            position: sticky;
+            top: 0;
+            z-index: 1; /* Lower z-index to ensure it stays behind the modal */
+        }
+        th:hover {
+            background-color: #5a9bd4;
+        }
+        tbody {
+            display: block;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        tbody tr {
+            display: table;
+            width: 100%;
+            table-layout: fixed;
+        }
+        thead, tbody tr {
+            display: table;
+            width: 100%;
+            table-layout: fixed;
+        }
+        tr:nth-child(even) {
+            background-color: #f4f7f9;
+        }
+        .highlight {
+            font-weight: normal;
+            color: #333;
+        }
+        .sortable {
+            cursor: pointer;
+            position: relative;
+        }
+
+        .sortable:after {
+            content: '\25B2'; /* Up arrow */
+            position: absolute;
+            right: 10px;
+            display: none;
+        }
+
+        .sortable.desc:after {
+            content: '\25BC'; /* Down arrow */
+        }
+
+        .sortable.active:after {
+            display: inline;
+        }
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.4);
+            padding-top: 60px;
+        }
+        .modal-content {
+            background-color: #fefefe;
+            margin: 5% auto;
+            padding: 20px;
+            border: 1px solid #888;
+            width: 80%;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .close:hover,
+        .close:focus {
+            color: black;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        .section {
+            margin: 20px auto; /* Center align sections */
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: 80%; /* Ensure consistent width */
+        }
+        .vertical-sections {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%; /* Ensure the container takes full width */
+        }
+        .vertical-sections .section {
+            width: 80%;
+        }
+        .overview-item {
+            margin: 10px 0;
+        }
+        .overview-item span {
+            font-weight: bold;
+        }
+        .overview-item i,
+        .overview-item span + span {
+            font-weight: normal; /* Unbold the content after ':' */
+        }
+        .search-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top: 20px;
+            position: relative;
+        }
+        .search-container input {
+            width: 300px;
+            padding: 10px;
+            border-radius: 25px 0 0 25px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+            outline: none;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .search-container button {
+            padding: 10px 20px;
+            border-radius: 0 25px 25px 0;
+            border: none;
+            background-color: #2a5298;
+            color: white;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .search-container button:hover {
+            background-color: #6a11cb;
+        }
+        .datalist-container {
+            display: none;
+            position: absolute;
+            top: 45px;
+            left: 0;
+            width: 100%;
+            border: 1px solid #ccc;
+            border-radius: 0 0 25px 25px;
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            z-index: 2; /* Ensure it appears in front of the table */
+            max-height: 200px;
+            overflow-y: auto;
+        }
+        .datalist-container div {
+            padding: 10px;
+            cursor: pointer;
+            font-size: 14px; /* Smaller font size */
+            text-align: left; /* Align text to the left */
+        }
+        .datalist-container div:hover {
+            background-color: #f4f7f9;
+        }
+        .percentage-results {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+        .percentage-section {
+            background-color: #f4f7f9;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: 45%;
+        }
+        .percentage-section h4 {
+            margin-top: 0;
+            color: #4682b4;
+        }
+        .percentage-item {
+            margin: 10px 0;
+        }
+        .percentage-item span {
+            font-weight: bold;
+        }
+        .percentage-item span + span {
+            font-weight: normal; /* Unbold the percentages after ':' */
+        }
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            cursor: pointer;
+        }
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 200px;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 5px;
+            padding: 5px;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%; /* Position above the text */
+            left: 50%;
+            margin-left: -100px;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+        .overview-container {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .overview-box {
+            background-color: #f4f7f9;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: 30%;
+            margin: 0 10px;
+        }
+        .overview-box h4 {
+            margin-top: 0;
+            color: #4682b4;
+            font-size: 1.2em;
+        }
+        .overview-item {
+            margin: 5px 0;
+        }
+        .overview-item span {
+            font-weight: bold;
+        }
+        .overview-item i {
+            font-style: italic;
+        }
+        .tooltip {
+            position: relative;
+            display: inline-block;
+            cursor: pointer;
+        }
+        .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 200px;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 5px;
+            padding: 5px;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%; /* Position above the text */
+            left: 50%;
+            margin-left: -100px;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .tooltip:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+        .summary-sentence {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #333;
+        }
+        .summary-sentence .highlight {
+            font-weight: bold;
+        }
+        .summary-sentence .higher {
+            color: green;
+        }
+        .summary-sentence .lower {
+            color: red;
+        }
+        .info-icon {
+            font-size: 1em;
+            color: #4682b4;
+            margin-left: 5px;
+            cursor: pointer;
+            position: relative;
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+            background: url('https://img.icons8.com/ios-filled/50/4682b4/info.png') no-repeat center center;
+            background-size: contain;
+        }
+        .info-icon .tooltiptext {
+            visibility: hidden;
+            width: 250px;
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            border-radius: 5px;
+            padding: 5px;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%; /* Position above the text */
+            left: 50%;
+            margin-left: -125px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            font-size: 0.85em; /* Smaller font size */
+        }
+        .info-icon:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+        .sources-section {
+            background-color: #f4f7f9;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            width: 80%;
+            margin: 20px auto; /* Move up a little bit */
+            text-align: left;
+        }
+        .sources-section h3 {
+            color: #4682b4;
+            margin-top: 0;
+        }
+        .sources-section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .sources-section li {
+            margin: 10px 0;
+        }
+        .sources-section a {
+            color: #2a5298;
+            text-decoration: none;
+        }
+        .sources-section a:hover {
+            text-decoration: underline;
+        }
+        .search-heading {
+            font-size: 1.5em;
+            color: #1e3c72;
+            margin-bottom: 20px;
+            font-family: 'Arial', sans-serif;
+            font-weight: 300; /* Thinner font weight */
+            letter-spacing: 1px;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); /* Add shadow */
+        }
+
+        a {
+            color: #2a5298; /* Blue color for links */
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        a:visited {
+            color: #2a5298; /* Ensure visited links remain blue */
+        }
+
+        @media (max-width: 768px) {
+            header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            header h1 {
+                font-size: 1.2em;
+            }
+            main {
+                padding: 10px;
+            }
+            input, button {
+                width: 100%;
+                margin: 5px 0;
+            }
+            .search-container {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .search-container input {
+                border-radius: 25px;
+                margin-bottom: 10px;
+            }
+            .search-container button {
+                border-radius: 25px;
+            }
+            table {
+                width: 100%;
+                font-size: 0.9em;
+            }
+            .overview-container {
+                flex-direction: column;
+            }
+            .overview-box {
+                width: 100%;
+                margin: 10px 0;
+            }
+            .percentage-results {
+                flex-direction: column;
+            }
+            .percentage-section {
+                width: 100%;
+                margin: 10px 0;
+            }
+            .vertical-sections .section {
+                width: 100%;
+            }
+            .sources-section {
+                width: 100%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            header h1 {
+                font-size: 1em;
+            }
+            .search-heading {
+                font-size: 1em;
+            }
+            table, th, td {
+                font-size: 0.7em;
+            }
+            .info-icon {
+                width: 12px;
+                height: 12px;
+            }
+            .info-icon .tooltiptext {
+                width: 180px;
+                margin-left: -90px;
+            }
+            .modal-content {
+                width: 90%;
+                padding: 10px;
+            }
+            .section {
+                width: 100%;
+                padding: 10px;
+            }
+            .overview-box {
+                padding: 10px;
+            }
+            .percentage-section {
+                padding: 10px;
+            }
+            .sources-section {
+                width: 100%;
+                padding: 10px;
+            }
+            .search-container input {
+                font-size: 14px;
+            }
+            .search-container button {
+                font-size: 14px;
+            }
+            .percentage-item span {
+                font-size: 0.9em;
+            }
+            .overview-item span {
+                font-size: 0.9em;
+            }
+            .overview-item i {
+                font-size: 0.9em;
+            }
+            .summary-sentence {
+                font-size: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 onclick="resetTable()">ResiFund</h1>
+    </header>
+    <main>
+        <div class="search-heading">How much CMS funding does your residency program receive?</div>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Enter Hospital Name" oninput="filterDatalist()">
+            <button id="searchButton" onclick="searchHospital()" disabled>Search</button>
+            <div class="datalist-container" id="datalistContainer"></div>
+        </div>
+        <div id="result">
+            <table id="hospitalTable">
+                <thead>
+                    <tr>
+                        <th onclick="sortTable(0)">Hospital Name</th>
+                        <th onclick="sortTable(1)">State</th>
+                        <th onclick="sortTable(2)">Year</th>
+                        <th onclick="sortTable(3)">Total CMS Funding</th>
+                        <th onclick="sortTable(4)">Total # of Residents</th>
+                        <th onclick="sortTable(5)">Per Resident Allocation</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </main>
+
+    <!-- Modal for additional information -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modalHospitalName"></h2>
+            <div class="section" id="overviewSection">
+                <h3>Overview</h3>
+                <div class="overview-container">
+                    <div class="overview-box">
+                        <h4>Total CMS Funding</h4>
+                        <p class="overview-item"><span>Year:</span> <i id="cmsYear"></i></p>
+                        <p class="overview-item"><span>Amount:</span> <span id="modalCMSBreakdown"></span></p>
+                        <p class="overview-item tooltip"><span>Avg Annual % Change:</span> <span id="averageAnnualPercentChange" class="highlight"></span>
+                            <span class="tooltiptext">This percentage represents the average annual change in total CMS funding over the years.</span>
+                        </p>
+                    </div>
+                    <div class="overview-box">
+                        <h4>Total # of Residents</h4>
+                        <p class="overview-item"><span>Year:</span> <i id="residentsYear"></i></p>
+                        <p class="overview-item"><span>Number:</span> <span id="modalResidentStipendCalculator"></span></p>
+                    </div>
+                    <div class="overview-box">
+                        <h4>Per Resident Allocation</h4>
+                        <p class="overview-item"><span>Year:</span> <i id="allocationYear"></i></p>
+                        <p class="overview-item"><span>Amount:</span> <span id="modalPerResidentAllocation"></span></p>
+                        <p class="overview-item tooltip"><span>Avg Annual % Change:</span> <span id="perResidentAllocationPercentChange" class="highlight"></span>
+                            <span class="tooltiptext">This percentage represents the average annual change in per resident allocation over the years.</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="section" id="stipendSection">
+                <h3>Resident Stipend Calculator</h3>
+                <p>This calculator shows what percentage of your hospital's CMS Per Resident Allocation is distributed between the Resident Stipend and Program Administration.</p>
+                <input type="number" id="stipendInput" placeholder="Enter your Resident Stipend">
+                <button onclick="calculatePercentage()">Calculate Percentage</button>
+                <div class="percentage-results">
+                    <div class="percentage-section">
+                        <h4>Your Program</h4>
+                        <p class="percentage-item"><span>Resident Stipend:</span> <span id="percentageResult"></span></p>
+                        <p class="percentage-item"><span>Program Administration:</span> <span id="adminPercentageResult"></span></p>
+                    </div>
+                    <div class="percentage-section">
+                        <h4>National Average <span class="info-icon">
+                            <span class="tooltiptext">The National Average is based on the 2024 PGY1 National Average Stipend of $66,712 and 2021 National Average Per Resident Allocation of $153,928.</span>
+                        </span></h4>
+                        <p class="percentage-item"><span>Resident Stipend:</span> <span class="highlight">43%</span></p>
+                        <p class="percentage-item"><span>Program Administration:</span> <span class="highlight">57%</span></p>
+                    </div>
+                </div>
+                <p id="summarySentence" class="summary-sentence"></p>
+            </div>
+            <div class="vertical-sections">
+                <div class="section" id="fundingSection">
+                    <h3>CMS Funding Breakdown</h3>
+                    <p>This section details the CMS funding that the hospital receives annually.</p>
+                    <p><strong>Direct Graduate Medical Education (DGME):</strong> CMS Payments to cover Medicare's share of teaching hospitals' direct costs for training residents, such as salaries and benefits.</p>
+                    <p><strong>Indirect Medical Education (IME):</strong> CMS payments to teaching hospitals to account for higher patient care costs associated with training residents.</p>
+                    <table id="fundingTable">
+                        <thead>
+                            <tr>
+                                <th>Year</th>
+                                <th>DGME Medicare Funding</th>
+                                <th>IME Medicare Funding</th>
+                                <th>Total CMS Medicare Funding</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                    <p class="overview-item"><span>Avg Annual % Change:</span> <span id="fundingAverageAnnualPercentChange"></span></p>
+                </div>
+                <div class="section" id="perResidentSection">
+                    <h3>Per Resident Allocation</h3>
+                    <p>The Per Resident Allocation is the CMS funding available per resident. It is calculated by dividing the Total CMS Funding by the Total Number of Residents in a given year.</p>
+                    <p id="perResidentCalculation"></p>
+                    <table id="perResidentTable">
+                        <thead>
+                            <tr>
+                                <th>Year</th>
+                                <th>Total CMS Medicare Funding</th>
+                                <th>Total # of Residents</th>
+                                <th>Per Resident Allocation</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                    <p class="overview-item"><span>Avg Annual % Change:</span> <span id="allocationAverageAnnualPercentChange"></span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="sources-section">
+        <h3>Data Sources</h3>
+        <ul>
+            <li><a href="https://www.aamc.org/data-reports/students-residents/report/aamc-survey-resident/fellow-stipends-and-benefits" target="_blank">AAMC Survey of Resident/Fellow Stipends and Benefits</a></li>
+            <li><a href="https://www.graham-center.org/maps-data-tools/gme-data-tables/2000-2021.html" target="_blank">Graham Center GME Data Tables (2000-2021)</a></li>
+            <li><a href="https://www.cms.gov/data-research/statistics-trends-and-reports/cost-reports" target="_blank">CMS Cost Reports</a></li>
+        </ul>
+    </div>
+
+    <script>
+        let data = [];
+        let fundingData = [];
+        let percentChangeData = [];
+        let perResidentChangeData = [];
+        let detailPerResidentData = [];
+        const searchButton = document.getElementById('searchButton');
+        const searchInput = document.getElementById('searchInput');
+        const hospitalList = document.getElementById('hospitalList');
+        const hospitalTableBody = document.getElementById('hospitalTable').getElementsByTagName('tbody')[0];
+        const modal = document.getElementById('myModal');
+        const span = document.getElementsByClassName('close')[0];
+
+        // Load JSON data from the files
+        fetch('hospitals.json') // Ensure your JSON file is named hospitals.json
+            .then(response => response.json())
+            .then(json => {
+                data = json;
+                console.log('Data loaded:', data); // Debugging statement
+                searchButton.disabled = false; // Enable the search button once data is loaded
+                populateDatalist(); // Populate the datalist with hospital names
+                populateTable(data); // Populate the table with initial data
+            })
+            .catch(error => console.error('Error loading JSON data:', error));
+
+        fetch('CMS Funding Breakdown.json') // Ensure your JSON file is named CMS Funding Breakdown.json
+            .then(response => response.json())
+            .then(json => {
+                fundingData = json;
+                console.log('Funding data loaded:', fundingData); // Debugging statement
+            })
+            .catch(error => console.error('Error loading JSON funding data:', error));
+
+        fetch('Total CMS Funding Average Annual Percent Change.json') // Ensure your JSON file is named Total CMS Funding Average Annual Percent Change.json
+            .then(response => response.json())
+            .then(json => {
+                percentChangeData = json;
+                console.log('Percent change data loaded:', percentChangeData); // Debugging statement
+            })
+            .catch(error => console.error('Error loading JSON percent change data:', error));
+
+        fetch('Per Resident Allocation Average Annual Percent Change.json') // Ensure your JSON file is named Per Resident Allocation Average Annual Percent Change.json
+            .then(response => response.json())
+            .then(json => {
+                perResidentChangeData = json;
+                console.log('Per Resident Allocation change data loaded:', perResidentChangeData); // Debugging statement
+            })
+            .catch(error => console.error('Error loading JSON per resident change data:', error));
+
+        fetch('Per Resident Allocation Section.json') // Ensure your JSON file is named Per Resident Allocation Section.json
+            .then(response => response.json())
+            .then(json => {
+                detailPerResidentData = json;
+                console.log('Detail Per Resident Allocation data loaded:', detailPerResidentData); // Debugging statement
+            })
+            .catch(error => console.error('Error loading JSON detail per resident data:', error));
+
+        // Populate the datalist with hospital names
+        function populateDatalist() {
+            const datalistContainer = document.getElementById('datalistContainer');
+            datalistContainer.innerHTML = ''; // Clear previous data
+            data.forEach(item => {
+                const option = document.createElement('div');
+                option.innerText = item.Hospital_Name;
+                option.onclick = () => {
+                    document.getElementById('searchInput').value = item.Hospital_Name;
+                    datalistContainer.style.display = 'none'; // Hide datalist after selection
+                };
+                datalistContainer.appendChild(option);
+            });
+        }
+
+        function filterDatalist() {
+            const input = document.getElementById('searchInput').value.toLowerCase();
+            const datalistContainer = document.getElementById('datalistContainer');
+            datalistContainer.innerHTML = ''; // Clear previous data
+            if (input === '') {
+                datalistContainer.style.display = 'none'; // Hide datalist if input is empty
+                return;
+            }
+            const filteredData = data.filter(item => item.Hospital_Name.toLowerCase().includes(input));
+            filteredData.forEach(item => {
+                const option = document.createElement('div');
+                option.innerText = item.Hospital_Name;
+                option.onclick = () => {
+                    document.getElementById('searchInput').value = item.Hospital_Name;
+                    datalistContainer.style.display = 'none'; // Hide datalist after selection
+                };
+                datalistContainer.appendChild(option);
+            });
+            datalistContainer.style.display = 'block'; // Show datalist when there are results
+        }
+
+        // Populate the table with data
+        function populateTable(data) {
+            hospitalTableBody.innerHTML = ''; // Clear previous data
+            // Sort data alphabetically by hospital name
+            data.sort((a, b) => a.Hospital_Name.localeCompare(b.Hospital_Name));
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td><a href="#" onclick="showModal('${item.Hospital_Name}', '${item.State}')">${item.Hospital_Name}</a></td>
+                    <td>${item.State}</td>
+                    <td>${item.Year}</td>
+                    <td>${item.Total_CMS_Payments}</td>
+                    <td>${item.Total_Residents}</td>
+                    <td>${item.Payment_Per_Resident}</td>
+                `;
+                hospitalTableBody.appendChild(row);
+            });
+        }
+
+        // Search for a hospital by name
+        function searchHospital() {
+            const input = searchInput.value.toLowerCase();
+            console.log('Search input:', input); // Debugging statement
+
+            if (input === '') {
+                populateTable(data); // Show all data if input is empty
+                return;
+            }
+
+            const results = data.filter(item =>
+                item.Hospital_Name.toLowerCase().includes(input)
+            );
+
+            console.log('Search results:', results); // Debugging statement
+
+            populateTable(results); // Populate the table with search results
+        }
+
+        // Sort the table by column
+        let sortDirection = {};
+
+        function sortTable(columnIndex) {
+            const hospitalTableBody = document.getElementById('hospitalTable').getElementsByTagName('tbody')[0];
+            const rows = Array.from(hospitalTableBody.getElementsByTagName('tr'));
+            const header = document.getElementsByTagName('th')[columnIndex];
+
+            // Toggle sort direction
+            if (sortDirection[columnIndex] === 'asc') {
+                sortDirection[columnIndex] = 'desc';
+                header.classList.add('desc');
+                header.classList.remove('asc');
+            } else {
+                sortDirection[columnIndex] = 'asc';
+                header.classList.add('asc');
+                header.classList.remove('desc');
+            }
+
+            // Remove active class from all headers
+            Array.from(document.getElementsByClassName('sortable')).forEach(th => th.classList.remove('active'));
+            // Add active class to the current header
+            header.classList.add('active');
+
+            const sortedRows = rows.sort((a, b) => {
+                const aText = a.getElementsByTagName('td')[columnIndex].innerText;
+                const bText = b.getElementsByTagName('td')[columnIndex].innerText;
+                if (sortDirection[columnIndex] === 'asc') {
+                    return aText.localeCompare(bText, undefined, {numeric: true});
+                } else {
+                    return bText.localeCompare(aText, undefined, {numeric: true});
+                }
+            });
+
+            hospitalTableBody.innerHTML = ''; // Clear previous data
+            sortedRows.forEach(row => hospitalTableBody.appendChild(row));
+        }
+
+        // Show modal with additional information
+        function showModal(hospitalName, state) {
+            const hospital = data.find(item => item.Hospital_Name === hospitalName);
+            if (hospital) {
+                document.getElementById('modalHospitalName').innerHTML = `${hospital.Hospital_Name}<br><span style="font-size: 0.8em; color: #666;">${state}</span>`;
+                document.getElementById('cmsYear').innerText = hospital.Year;
+                document.getElementById('residentsYear').innerText = hospital.Year;
+                document.getElementById('allocationYear').innerText = hospital.Year;
+                document.getElementById('modalCMSBreakdown').innerText = hospital.Total_CMS_Payments;
+                document.getElementById('modalResidentStipendCalculator').innerText = hospital.Total_Residents;
+                document.getElementById('modalPerResidentAllocation').innerText = hospital.Payment_Per_Resident;
+                document.getElementById('averageAnnualPercentChange').innerText = hospital.Average_Annual_Total_CMS_Funding_Percent_Change;
+                document.getElementById('perResidentAllocationPercentChange').innerText = hospital.Average_Annual_Per_Resident_Allocation_Percent_Change;
+                document.getElementById('fundingAverageAnnualPercentChange').innerText = hospital.Average_Annual_Total_CMS_Funding_Percent_Change;
+                document.getElementById('allocationAverageAnnualPercentChange').innerText = hospital.Average_Annual_Per_Resident_Allocation_Percent_Change;
+                document.getElementById('stipendInput').value = ''; // Clear the input field
+                document.getElementById('percentageResult').innerText = '';
+                document.getElementById('adminPercentageResult').innerText = '';
+                document.getElementById('summarySentence').innerText = '';
+                populateFundingTable(hospitalName);
+                populatePercentChange(hospitalName);
+                populatePerResidentChange(hospitalName);
+                populateDetailPerResidentTable(hospitalName);
+                modal.style.display = 'block';
+            }
+        }
+
+        // Populate the funding table with yearly data
+        function populateFundingTable(hospitalName) {
+            const fundingTableBody = document.getElementById('fundingTable').getElementsByTagName('tbody')[0];
+            fundingTableBody.innerHTML = ''; // Clear previous data
+
+            const hospitalFundingData = fundingData.filter(item => item["Hospital Name"] === hospitalName);
+            hospitalFundingData.sort((a, b) => a.Year - b.Year); // Sort by year
+
+            hospitalFundingData.forEach(item => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${item.Year}</td>
+                    <td>${item["DGME Medicare Funding"]}</td>
+                    <td>${item["IME Medicare Funding"]}</td>
+                    <td>${item["Total CMS Medicare Funding"]}</td>
+                `;
+                fundingTableBody.appendChild(row);
+            });
+        }
+
+        // Populate the percent change data
+        function populatePercentChange(hospitalName) {
+            const percentChange = percentChangeData.find(item => item["Hospital Name"] === hospitalName);
+            if (percentChange) {
+                document.getElementById('averageAnnualPercentChange').innerText = percentChange["Total CMS Funding Average Annual Percent Change"] ;
+                document.getElementById('fundingAverageAnnualPercentChange').innerText = percentChange["Total CMS Funding Average Annual Percent Change"] ;
+            } else {
+                document.getElementById('averageAnnualPercentChange').innerText = 'N/A';
+                document.getElementById('fundingAverageAnnualPercentChange').innerText = 'N/A';
+            }
+        }
+
+        // Populate the per resident allocation percent change data
+        function populatePerResidentChange(hospitalName) {
+            const perResidentChange = perResidentChangeData.find(item => item["Hospital Name"] === hospitalName);
+            if (perResidentChange) {
+                document.getElementById('perResidentAllocationPercentChange').innerText = perResidentChange["Per Resident Allocation Average Annual Percent Change"] ;
+                document.getElementById('allocationAverageAnnualPercentChange').innerText = perResidentChange["Per Resident Allocation Average Annual Percent Change"] ;
+            } else {
+                document.getElementById('perResidentAllocationPercentChange').innerText = 'N/A';
+                document.getElementById('allocationAverageAnnualPercentChange').innerText = 'N/A';
+            }
+        }
+
+        // Populate the detailed per resident allocation table with yearly data
+        function populateDetailPerResidentTable(hospitalName) {
+            const perResidentTableBody = document.getElementById('perResidentTable').getElementsByTagName('tbody')[0];
+            perResidentTableBody.innerHTML = ''; // Clear previous data
+
+            const hospitalPerResidentData = detailPerResidentData.filter(item => item["Hospital Name"] === hospitalName);
+            hospitalPerResidentData.sort((a, b) => a.Year - b.Year); // Sort by year
+
+            hospitalPerResidentData.forEach(item => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${item.Year}</td>
+                    <td>${item["Total CMS Medicare Funding"]}</td>
+                    <td>${item["Total # of Residents"]}</td>
+                    <td>${item["Per Resident Allocation"]}</td>
+                `;
+                perResidentTableBody.appendChild(row);
+            });
+        }
+
+        // Calculate the percentage of the stipend
+        function calculatePercentage() {
+            const stipend = parseFloat(document.getElementById('stipendInput').value);
+            const perResidentAllocation = parseFloat(document.getElementById('modalPerResidentAllocation').innerText.replace(/[^0-9.-]+/g,""));
+            if (!isNaN(stipend) && !isNaN(perResidentAllocation)) {
+                const percentage = (stipend / perResidentAllocation) * 100;
+                const adminPercentage = 100 - percentage;
+                document.getElementById('percentageResult').innerText = `${percentage.toFixed(2)}%`;
+                document.getElementById('adminPercentageResult').innerText = `${adminPercentage.toFixed(2)}%`;
+
+                const comparison = percentage < 43 ? 'Lower' : 'Higher';
+                const comparisonClass = percentage < 43 ? 'lower' : 'higher';
+                document.getElementById('summarySentence').innerHTML = `Your Resident Stipend makes up <span class="highlight ${comparisonClass}">${percentage.toFixed(2)}%</span> of the Per Resident Allocation, which is <span class="highlight ${comparisonClass}">${comparison}</span> than the National Average.`;
+            } else {
+                document.getElementById('percentageResult').innerText = 'N/A';
+                document.getElementById('adminPercentageResult').innerText = 'N/A';
+                document.getElementById('summarySentence').innerText = '';
+            }
+        }
+
+        // Close the modal
+        span.onclick = function() {
+            modal.style.display = 'none';
+        }
+
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = 'none';
+            }
+        }
+
+        // Function to reset the table to its default state
+        function resetTable() {
+            populateTable(data); // Repopulate the table with the initial data
+            searchInput.value = ''; // Clear the search input
+            document.getElementById('datalistContainer').style.display = 'none'; // Hide the datalist
+        }
+    </script>
+</body>
+</html>
